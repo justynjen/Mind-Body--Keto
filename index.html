@@ -24,7 +24,7 @@ ebooks:
     <h1>{{ page.banner-heading }}</h1>
     <h3>{{ page.subtitle }}</h3>
     <h4> {{ page.subtitle2 }}</h4>
-    <button type="button" name="button">Book a Free Call Today! </button>
+    <button type="button" name="button">Schedule an Appointment </button>
   </div>
 </section>
 <section class="grid">
@@ -117,7 +117,7 @@ ebooks:
 </ul>
   <br>
   <h3>Then Mind Body Keto is for YOU.</h3>
-  <button type="button" name="button">Book a Free Call Today! </button>
+  <button type="button" name="button">Schedule an Appointment</button>
   <br>
 </div>
 </section>
@@ -129,7 +129,7 @@ ebooks:
 
     <a class="pinkA" href="/about">Learn More About Nicole</a>
   </div>
-  <div class="col-6_xs-12 shortImage" style="background-image:url('/images/temp-three.jpg')">
+  <div class="col-6_xs-12 normalImage" style="background-image:url('/images/chefNicole.jpg')">
 
   </div>
 </section>
@@ -147,8 +147,7 @@ ebooks:
   {% endfor %}
 
 </section>
-<section class="grid">
-  <section class="blog">
+<section>
     <h2 class="textCenter">What's New</h2>
     <div class="grid-middle-center">
 
@@ -165,6 +164,14 @@ ebooks:
        {% endfor %}
 
       </div>
-
-  </section>
+      <div class="paddingTop textCenter">
+        <button type="button" name="button"><a href="/blog">Read all Posts</a></button>
+      </div>
+      <div class="col-12 paddingTop">
+        <h4 class="textCenter">Subscribe for Tips and Freebies!</h4>
+        <form class="contact-form" method="POST" action="http://formspree.io/justyngourdin@gmail.com">
+      		<input name="name" type="text" class="feedback-input" placeholder="Name" />
+        	<input name="email" type="text" class="feedback-input" placeholder="Email" />
+        	<input type="submit" value="SUBMIT"/>
+      </div>
 </section>
