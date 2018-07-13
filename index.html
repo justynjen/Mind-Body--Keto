@@ -18,6 +18,15 @@ ebooks:
     feature-image_path: /images/temp-two.jpg
     description: Write something here for each eBook
     link: /shop
+courses:
+  - name: Course 1
+    feature-image_path: /images/temp-two.jpg
+    description: Write something here for each course
+    link: /shop
+  - name: Course 2
+    feature-image_path: /images/temp-two.jpg
+    description: Write something here for each course
+    link: /shop
 ---
 <section class="parallax1"style="background-image:url('{{page.feature-image_path}}');">
   <div class="textCenter backgroundBox">
@@ -104,7 +113,10 @@ ebooks:
 
 </div>
   <h3 class="col-12 textCenter paddingTop">Or if you are tired of contending with:</h3>
-<div class="col-12 textCenter">
+<div class="col-4">
+
+</div>
+<div class="col-4">
 <ul>
   <li><i class="fas fa-check iconPadding"></i>Neverending attempts to “fix” yourself</li>
   <li><i class="fas fa-check iconPadding"></i>Self-Hate</li>
@@ -115,10 +127,16 @@ ebooks:
   <li><i class="fas fa-check iconPadding"></i>Lack of Self-Love</li>
   <li><i class="fas fa-check iconPadding"></i>Low Self-Esteem/Low Self-Worth</li>
 </ul>
+<div class="col-4">
+
+</div>
   <br>
-  <h3>Then Mind Body Keto is for YOU.</h3>
-  <button type="button" name="button">Schedule an Appointment</button>
-  <br>
+  <div class="col-12 textCenter">
+    <h3>Then Mind Body Keto is for YOU.</h3>
+    <button type="button" name="button">Schedule an Appointment</button>
+    <br>
+
+  </div>
 </div>
 </section>
 <section class="grid paddingTop">
@@ -142,6 +160,20 @@ ebooks:
     <img src="{{ ebooks.feature-image_path }} " alt="">
     <p>{{ ebooks.description }}</p>
     <a class="pinkA" href="{{ ebooks.url }}">Buy Now</a>
+  </div>
+
+  {% endfor %}
+
+</section>
+<section class="grid">
+
+  {% for courses in page.courses %}
+
+  <div class="col-6_sm-6_xs-12 textCenter">
+    <h3>{{ courses.name }}</h3>
+    <img src="{{ courses.feature-image_path }} " alt="">
+    <p>{{ courses.description }}</p>
+    <a class="pinkA" href="{{ courses.url }}">Buy Now</a>
   </div>
 
   {% endfor %}
