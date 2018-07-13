@@ -3,8 +3,7 @@ layout: posts
 date: 2017-04-11 00:00:00
 feature-image_path: /images/temp-two.jpg
 title:  AWESOME THINGS THAT HAPPEN WHEN YOU GO KETO
-Author:
-comments: true
+Author: Nicole
 category: Keto Diet
 facebook:
 facebook_url:

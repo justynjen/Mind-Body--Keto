@@ -2,9 +2,8 @@
 layout: posts
 date: 2017-04-11 00:00:00
 feature-image_path: /images/temp-four.jpg
-title:  MIND BODY KETO: HOW CARBS BECOME FAT (TRIGLYCERIDES) & WHAT TO DO ABOUT IT
-Author:
-comments: true
+title:  MIND BODY KETO - HOW CARBS BECOME FAT (TRIGLYCERIDES) & WHAT TO DO ABOUT IT
+Author: Nicole
 category: Keto Diet
 facebook:
 facebook_url:
@@ -35,7 +34,6 @@ THAT’S RIGHT – EXCESS CARBOHYDRATES LITERALLY TURN INTO FAT. It’s called l
 
 ### WHAT ARE TRIGLYCERIDES?
 
-*insert pic here*
 
 Triglycerides are a type of fat, and there is no limit to how many can be stored in your fat cells. Fat cells will grow to accommodate more and more triglycerides. In fact, nowhere in my research does it state that there is ANY limit to how much fat we can store in our bodies!
 

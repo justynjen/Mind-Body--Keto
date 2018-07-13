@@ -3,8 +3,7 @@ layout: posts
 date: 2017-04-11 00:00:00
 feature-image_path: /images/temp-one.jpg
 title:  Keto 101. Just the basics of the ketogenic diet!”
-Author:
-comments: true
+Author: Nicole
 category: Keto Diet
 facebook:
 facebook_url:

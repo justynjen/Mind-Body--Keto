@@ -3,8 +3,7 @@ layout: posts
 date: 2017-04-11 00:00:00
 feature-image_path: /images/temp-three.jpg
 title:  THE KETO FLU & WHAT TO DO ABOUT IT
-Author:
-comments: true
+Author: Nicole
 category: Keto Diet
 facebook:
 facebook_url:
