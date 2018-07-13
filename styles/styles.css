@@ -116,6 +116,9 @@ a{
   padding: 5px;
   color: #ff715b;
 }
+.darkText{
+  color: black;
+}
 /*
       ***BUTTON STYLES***
 */
@@ -163,7 +166,7 @@ button{
 }
 
 /* Navbar links */
-#navigation .navbar a {
+#navigation .navbar a, .logo a {
   color: #005791;
   font-size: 14px;
   font-weight: 600;
@@ -172,9 +175,11 @@ button{
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  padding-bottom: 15px;
   position: relative;
   bottom: -15px;
+}
+#navigation .logo a {
+  font-size: 25px;
 }
 #navigation .menu{
   float: right;
