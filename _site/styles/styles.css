@@ -74,6 +74,9 @@ a{
 .padding{
   padding: 5%;
 }
+.paddingTop{
+  padding-top: 2%;
+}
 .centerButton{
   position: relative;
   left: 41%;
@@ -88,7 +91,9 @@ a{
   color: #ff715b;
   font-size: 1.3rem;
 }
-
+.borderRight{
+  border-right: black solid 1px;
+}
 /*
       ***BUTTON STYLES***
 */
