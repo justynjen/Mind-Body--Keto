@@ -225,13 +225,13 @@ button{
 .backgroundBox{
   margin: 4%;
   padding: 2%;
-  background-color: rgba(255, 255, 255, 0.59);
+  background-color: rgba(255, 255, 255, 0.75);
   text-align: center;
 }
 .backgroundBox2{
   margin: 2%;
   padding: 2%;
-  background-color: rgba(255, 255, 255, 0.59);
+  background-color: rgba(255, 255, 255, 0.75);
   text-align: center;
 }
 .parallax1 {
