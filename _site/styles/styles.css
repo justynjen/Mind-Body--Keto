@@ -8,6 +8,7 @@ html {
     font-size: 14px;
     color: rgb(60,60,60);
     font-family: 'Open Sans', sans-serif;
+    z-index: 1;
 }
 body{
     background-color: #eeeeee0d;
@@ -46,6 +47,11 @@ h4{
   font-family: 'Sacramento', cursive;
   font-weight: 400;
 }
+h5{
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
 section{
     padding: 2%;
 }
@@ -85,6 +91,9 @@ a{
 }
 .paddingTop{
   padding-top: 3%;
+}
+.paddingBottom{
+  padding-bottom: 3%;
 }
 .centerButton{
   position: relative;
@@ -157,6 +166,53 @@ button{
   font-size: 1.2rem;
 }
 /*
+    ****DROPDOWN***
+*/
+.dropbtn {
+    background-color: white;
+    color: black;
+    padding: 14px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 99999999;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: white;
+  z-index: 9999999;
+}
+
+.dropdown:hover .dropdown-content {
+  background-color: white;
+  display: block;
+  z-index: 999999;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: white;
+  z-index: 9999999;
+}
+/*
       ***HEADER***
 */
 #navigation{
@@ -167,7 +223,7 @@ button{
   justify-content: center;
   align-items: center;
 }
-#navigation .navbar {
+#navigation .navbar ul li {
   overflow: hidden;
   background-color: white;
   z-index: 999999999;
@@ -177,7 +233,7 @@ button{
 }
 
 /* Navbar links */
-#navigation .navbar a, .logo a {
+#navigation .navbar ul li, .logo a {
   color: #005791;
   font-size: 14px;
   font-weight: 600;
@@ -203,35 +259,20 @@ button{
   padding-left: 13px;
   padding-right: 13px;
 }
-/* Page content */
-.content {
-  padding: 12px;
-}
 
-/* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%
-}
-
-/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
-.sticky + .content {
-  padding-top: 25px;
-}
 /*
       ***HOME***
 */
 .backgroundBox{
   margin: 4%;
   padding: 2%;
-  background-color: rgba(255, 255, 255, 0.59);
+  background-color: rgba(255, 255, 255, 0.75);
   text-align: center;
 }
 .backgroundBox2{
   margin: 2%;
   padding: 2%;
-  background-color: rgba(255, 255, 255, 0.59);
+  background-color: rgba(255, 255, 255, 0.75);
   text-align: center;
 }
 .parallax1 {

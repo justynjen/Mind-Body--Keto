@@ -4,7 +4,7 @@ date: 2017-04-11 00:00:00
 feature-image_path: /images/temp-four.jpg
 title:  MIND BODY KETO - HOW CARBS BECOME FAT (TRIGLYCERIDES) & WHAT TO DO ABOUT IT
 Author: Nicole
-category: Keto Diet
+category: Blog
 facebook:
 facebook_url:
 instagram_url:

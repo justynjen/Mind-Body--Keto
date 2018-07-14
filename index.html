@@ -189,6 +189,7 @@ courses:
     <div class="grid-middle-center">
 
        {% for post in site.posts limit:4 %}
+          {% if post.categories contains 'blog' %}
 
       <div class="col-3_sm-6_xs-12">
        <img class="shortImage" src="{{ post.feature-image_path }} " alt="">
@@ -198,9 +199,11 @@ courses:
         </div>
        </div>
 
+          {% endif %}
        {% endfor %}
 
-      </div>
+     </div>
+
       <div class="paddingTop textCenter">
         <button type="button" name="button"><a class="buttonPadding" href="/blog">Read all Posts</a></button>
         <br/>

@@ -1,26 +1,16 @@
 ---
 layout: default
 title: What's New | Keto Blog
-banner-image_path: /images/temp-three.jpg
+feaure-image_path: /images/temp-three.jpg
 ---
 <section>
-  <h1>{{ page.banner-heading }}</h1>
-</section>
-<section>
-  <div class="grid-middle-center">
+  <div>
+    <h1 class="textCenter">{{ page.title }}</h1>
+    <hr class="hrCenter">
+  </div>
+  <div class="padding">
 
-   {% for post in site.posts %}
-
-   <div class="col-4_sm-6_xs-12 textCenter">
-     <div class="backgroundBox">
-       <img class="shortImage" src="{{ post.feature-image_path }} " alt="">
-       <div class="centered">
-         <h3 class="textCenter"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-         <a href="{{post.url}}" class="pinkA textCenter"> Read More</a>
-       </div>
-     </div>
-   </div>
-
-   {% endfor %}
+    {{content}}
 
   </div>
+</section>

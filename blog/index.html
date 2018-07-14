@@ -1,0 +1,35 @@
+---
+layout: default
+title: Blog | Mind Body Keto
+feature-image_path: /images/temp-three.jpg
+banner-heading: What's New
+subtitle: Read the blog and learn what's new in the Keto World
+---
+<section class="parallax1"style="background-image:url('{{page.feature-image_path}}');">
+  <div class="textCenter backgroundBox">
+    <h1>{{ page.banner-heading }}</h1>
+    <h3>{{ page.subtitle }}</h3>
+    <h4> {{ page.subtitle2 }}</h4>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+  </div>
+</section>
+<section>
+<div class="grid-middle-center">
+
+   {% for post in site.posts %}
+      {% if post.categories contains 'blog' %}
+
+   <div class="col-4_sm-6_xs-12 textCenter">
+     <div class="backgroundBox">
+       <img class="shortImage" src="{{ post.feature-image_path }} " alt="">
+       <div class="centered">
+         <h3 class="textCenter"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+         <a href="{{post.url}}" class="pinkA textCenter"> Read More</a>
+       </div>
+     </div>
+   </div>
+
+      {% endif %}
+   {% endfor %}
+
+ </div>

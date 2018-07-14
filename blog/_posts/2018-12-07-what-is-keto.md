@@ -4,7 +4,7 @@ date: 2017-04-11 00:00:00
 feature-image_path: /images/temp-one.jpg
 title:  Keto 101. Just the basics of the ketogenic diet!”
 Author: Nicole
-category: Keto Diet
+category: Blog
 facebook:
 facebook_url:
 instagram_url:

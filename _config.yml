@@ -1,5 +1,5 @@
 categories:
-  - Blogging
+  - Blog
   - Recipes
   - Keto
 
@@ -28,3 +28,5 @@ _options:
     height: 120
     resize_style: "cover"
     mime_type: "image/png"
+
+permalink: /:categories/:title/
