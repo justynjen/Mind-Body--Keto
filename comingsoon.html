@@ -1,0 +1,47 @@
+---
+layout: default
+feature-image_path: /images/keto-food.jpg
+title: Coming Soon | Mind Body Keto
+banner-heading: More Greatness Coming Soon!
+subtitle: Keep an eye on this page to know when we release new goodies for you
+subtitle2: Or - Subscribe to get notified of releases!
+---
+<section class="parallax1"style="background-image:url('{{page.feature-image_path}}');">
+  <div class="textCenter backgroundBox">
+    <h1>{{ page.banner-heading }}</h1>
+    <h3 class="darkText">{{ page.subtitle }}</h3>
+    <h4> {{ page.subtitle2 }}</h4>
+  </div>
+</section>
+<section class="grid padding">
+  <div class="col-12">
+    <h3 class="textCenter">Leave us your name and email to be the first to know when we release new proucts and programs!</h3>
+    <form class="contact-form" method="POST" action="http://formspree.io/justyngourdin@gmail.com">
+  		<input name="name" type="text" class="feedback-input" placeholder="Name" />
+    	<input name="email" type="text" class="feedback-input" placeholder="Email" />
+    	<input type="submit" value="SUBMIT"/>
+  </div>
+  <br/>
+</section>
+<section>
+    <h2 class="textCenter">What's New</h2>
+    <div class="grid-middle-center">
+
+       {% for post in site.posts %}
+          {% if post.categories contains 'blog' %}
+
+       <div class="col-3_sm-6_xs-12 textCenter">
+         <div class="backgroundBox">
+           <img class="shortImage" src="{{ post.feature-image_path }} " alt="">
+           <div class="centered">
+             <h3 class="textCenter"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+             <a href="{{post.url}}" class="pinkA textCenter"> Read More</a>
+           </div>
+         </div>
+       </div>
+
+          {% endif %}
+       {% endfor %}
+
+     </div>
+</section>
