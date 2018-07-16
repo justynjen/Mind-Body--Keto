@@ -86,6 +86,11 @@ a{
   font-weight: 400;
   line-height: .4;
 }
+.cursiveBold{
+  font-weight: 600;
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+}
 .padding{
   padding: 5%;
 }
@@ -114,6 +119,10 @@ a{
 .pinkA{
   color: #ff715b;
   font-size: 1.3rem;
+}
+.listStyle{
+  font-size: 1.2rem;
+  font-weight: 600;
 }
 .borderRight{
   border-right: black solid 1px;
