@@ -340,6 +340,9 @@ button{
   text-align: center;
   font-size: 0.8rem;
 }
+.footerButton{
+  padding: 5px;
+}
 /*
       ***FORM***
 */
