@@ -487,11 +487,13 @@ a.smallMenu {
   #mainNav{
     display: none;
   }
+  #navigation{
+    height: 60px;
+  }
   #logo{
     display: none;
   }
   .menu{
     display: none;
-    height: 60px;
   }
 }
