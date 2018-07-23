@@ -5,7 +5,7 @@
 }
 html {
     overflow-x: hidden;
-    font-size: 14px;
+    font-size: 15px;
     color: rgb(60,60,60);
     font-family: 'Open Sans', sans-serif;
     z-index: 1;
@@ -461,8 +461,28 @@ a.smallMenu {
 /*
       ***MOBILE STYLES***
 */
-@media all and (max-width:640px){
-  .mainNav{
+@media screen and (max-width: 48em){
+  body{
+    overflow: hidden;
+  }
+  .borderRight{
+    border-right: none;
+    border: none;
+    border-bottom: 2px solid #ff715b;
+    width: 3.5rem;
+    margin: 1rem 0;
+}
+.textRight{
+  text-align: center;
+}
+.footerLinks{
+  display: none !important;
+}
+@media screen and (max-width: 48em){
+  #mainNav{
+    display: none;
+  }
+  #logo{
     display: none;
   }
 }
