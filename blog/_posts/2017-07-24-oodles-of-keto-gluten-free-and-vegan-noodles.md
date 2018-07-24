@@ -14,13 +14,16 @@ categories:
 
 One of the hardest changes to make when you are transitioning your diet to gluten and grain-free, Keto, Paleo, what-have-you is giving up NOODLES, in my personal opinion. Spaghetti, fettuccine, lo mein, pad Thai, chicken noodle soup, peanut noodles, kugel – there are delicious noodle dishes from cuisines all over the world that are no longer readily accessible, especially if you have adopted the low carb or ketogenic lifestyle. HOWEVER – that does not have to remain true, because honeys – you’ve got OPTIONS!
 
+&nbsp;
+
 \*insert pic 1\* My Favorite Keto-GF-Vegan Noodles in One Place!
+
+&nbsp;
 
 Don’t get me wrong – there is not yet a perfect substitute that completely mimics the feel and flavor of traditional wheat-based noodles. This is true even with the fantastic high-carb gluten free options that most grocery stores stock these days! But if you are able to shift your perception just a little bit, and view noodles as
 
-a component to a dish
-
-or a vehicle for delicious sauces as opposed to the main event
+* a component to a dish
+* or a vehicle for delicious sauces as opposed to the main event
 
 you will be pleasantly surprised by the following alternatives. They also happen to be my five favorites, and have made my California Keto journey thus far MUCH, much easier.
 
