@@ -110,15 +110,27 @@ Here is a list of Keto approved snacks. Do be aware that there ARE carbs in thin
 
 This option, in my opinion, is even easier because you do not have to DO anything, buy anything, or make sure you don’t forget anything. It is simply suggesting that you do not eat during your flight. Not eating is otherwise known as fasting, and is something that many people incorporate daily into their Ketogenic lifestyles, referring to it as “Intermittent Fasting”.
 
+&nbsp;
+
 Intermittent fasting is something that I toyed with about 3 months into my journey, but put back on the shelf until just recently because it was not for me at the time. It is the practice of limiting your eating to a certain window of time, while still sticking to your already calculated macros. When you are not eating, you are fasting, and we all fast to some extent when we sleep at night. Kinda makes sense we call the first meal of the day “breakfast”, when we are “breaking our fast”.
+
+&nbsp;
 
 The idea of intermittent fasting freaks out a lot of people, but it’s really not that difficult \*\*\*if you are already fat-adapted\*\*\*. You will find once you have been Keto for a while that your constant hunger and cravings naturally subside, and you aren’t even tempted by Joe Shmoe’s Snickers bar. You know and appreciate that high-carb and sugary foods aren’t the keys to reaching your goals, and they become easy to resist.
 
+&nbsp;
+
 If you have a flight that is not exorbitantly long, and you know that there will be food on the other end that you can eat, just don’t eat during the flight! Drink another cup of coffee or tea, natural appetite suppressants. Drink water. Bring along a scoop of a fiber supplement and mix THAT into a bottle of water to fill up your stomach. I promise you, not eating for one little flight is not going to kill you, not going to throw off your metabolism or electrolytes, and is actually not going to be that hard.
+
+&nbsp;
 
 I do not recommend fasting for those new to Keto. It is a practice you should find out if you are comfortable with before you attempt it on a 13 hour flight, because realizing that it isn’t for you with only the expensive (both in price and in the cost to your happy fat-fueled body) food options could be a disaster.
 
+&nbsp;
+
 When you are truly hungry, you should eat, and eat the right things. Until you have been eating low carb and listening to your body for some time, you may mistake habitual desire to eat with hunger.
+
+&nbsp;
 
 *Little anecdote – waaaaaaayyyyy back in the old days before I had ever even discovered that I was allergic to gluten, I “treated” myself to Sbarro every time I took a flight. After a while, as soon as I arrived at the airport, I craved Sbarro and those super-oily breadsticks! I had trained myself to associate airports with eating this carb-laden, completely unhealthy food. That was habit, not real hunger – and we want to break those kinds of habits.*
 
