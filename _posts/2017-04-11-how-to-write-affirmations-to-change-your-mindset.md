@@ -9,13 +9,14 @@ facebook:
 facebook_url:
 instagram_url:
 categories:
+  - Blog
 ---
 
 Not too long ago, a dear friend left me a voicemail saying “I’ve reached that point when I realized that I have nothing, and I am nothing. Want to talk, give me a call…” This person still graces this earth (don’t worry!), but was having a particularly down day. How couldn’t they be if this was the message that they were telling themselves and even worse, believing? I knew immediately that I needed to teach them about the magic of affirmations.
 
 ### MINDSET MAKES A DIFFERENCE
 
-&nbsp;
+ 
 
 Hearing this held up an old (many years old!) mirror for me; I used to repeat something very similar to myself even while running a successful business and appearing to the outside world as a wildly confident and joyful woman. It was almost a MANTRA, and the more I said it (inside my head), the deeper it stuck there.
 
@@ -25,7 +26,7 @@ It manifested in my NOT achieving my dreams and feeling as if I was running on a
 
 ### THE ILLUSORY TRUTH EFFECT
 
-&nbsp;
+ 
 
 Marketing companies and politicians use the same method to get potential customers and/or constituents to believe in their messages. It is called the “Illusory Truth Effect”. Once we hear a message more than 3 times, we begin to honestly believe that it’s true. This may give you a little pause when you hear someone repeating something that you KNOW to be untrue over and over – it’s effective. It’s psychological SCIENCE!
 
@@ -41,12 +42,12 @@ We can easily change the negative to positive no matter what our current life si
 
 ### HOW DO WE CREATE AFFIRMATIONS?
 
-&nbsp;
+ 
 
 It’s super easy!
 
 1. **Write down the negative statement or belief that repeats in your mind.** (e.g., “I am nobody.” “Everybody hates me.”){: .present-before-paste}
-2. **N****ow, write down the OPPOSITE or something that FEELS opposite and positive.**&nbsp;(e.g., “I am SOMEBODY.” “I am EVERYBODY.” “Everybody LOVES me.” “I am lovable.”){: .present-before-paste}
+2. **N****ow, write down the OPPOSITE or something that FEELS opposite and positive.** (e.g., “I am SOMEBODY.” “I am EVERYBODY.” “Everybody LOVES me.” “I am lovable.”){: .present-before-paste}
 3. **Each time you catch yourself starting with that negative thought again, mentally say STOP!** **And replace with your new, positive statement.**{: .present-before-paste}
 
 A few guidelines while writing:
@@ -158,7 +159,7 @@ Sounds silly – but give it a go and see just how quickly time passes while you
 
 #### Reframe: TELLING THE TRUTH IN ADVANCE
 
-&nbsp;
+ 
 
 Patterns can be challenging to break, and it will take effort at the beginning to “believe” the new messages that you are saying to yourself. The remedy for this is repeating them even MORE. I mean HUNDREDS of times per day, every time you have free space in your thoughts. While you’re walking from the bedroom to the kitchen, waiting for the bus, taking out the recycling. Eventually, you will “fake it til you make it”, and by making it, I mean automatically thinking good thoughts.
 
@@ -166,13 +167,13 @@ The big mistake is thinking that you are lying to yourself. You are using proven
 
 ### WHAT AFFIRMATIONS HAVE DONE FOR ME
 
-&nbsp;
+ 
 
 I am so grateful today that I discovered affirmations and decided to start the journey of self-work to become the person that I wanted to be – a TRULY joyful, vulnerable, attractive, and loving being, standing in my power. I feel connected to the rest of humanity, to the Earth as a whole, and know in my bones that I have a purpose on this planet, that my words are important and deserve to be heard, that I CAN make a difference, and also that I am loving, lovable, and loved!
 
 ### WHAT AFFIRMATIONS CAN DO FOR YOU
 
-&nbsp;
+ 
 
 You can achieve just about anything with a strong enough belief system, whether it’s feeling attractive, achieving a health goal, or even boosting your immune system.
 
@@ -180,12 +181,12 @@ Louise Hay, whose books taught me the greatest lessons about affirmations and al
 
 ### A SIMPLE ONE TO LEAVE YOU WITH!
 
-&nbsp;
+ 
 
 This is one of my favorite affirmations and can help with any task you are doing, especially if you are facing a little mental resistance:
 
 ##### **THIS IS SIMPLE. THIS IS EASY. THIS IS FUN!**
 
-&nbsp;
+ 
 
 Sounds silly – but give it a go and see just how quickly time passes while you’re doing that thing you hate. And let me know about your experiences with affirmations in the comments – I’d love to hear how you go!
