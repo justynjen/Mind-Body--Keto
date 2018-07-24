@@ -26,6 +26,8 @@ Hearing this held up an old (many years old!) mirror for me; I used to repeat so
 
 It manifested in my NOT achieving my dreams and feeling as if I was running on a sinking hamster wheel. It meant that my friendships were neglected instead of nurtured because I created stories about them “not wanting to hang out with me anyway”. It meant that I charged well below what I was worth, and honestly, that “successful” business was not affording me the life I REALLY wanted to live.
 
+### &nbsp;
+
 ### THE ILLUSORY TRUTH EFFECT
 
 &nbsp;
