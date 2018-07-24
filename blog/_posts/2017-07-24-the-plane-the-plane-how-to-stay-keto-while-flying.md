@@ -12,9 +12,13 @@ categories:
   - Blog
 ---
 
-Airports are often a disaster zone for low carb and Keto travelers. Even before I began this way of eating (WOE), I still struggled to find healthy, affordable options before flying at most airports! Times are changing, and things ARE slowly getting better, but the best thing to do when you are Keto and flying off to parts unknown is simply this: BE PREPARED.
+Airports are often a disaster zone for low carb and Keto travelers. Even before I began this way of eating (WOE), I still struggled to find healthy, affordable options before flying at most airports! Times are changing, and things ARE slowly getting better, but the best thing to do when you are Keto and flying off to parts unknown is simply this: **BE PREPARED.**
 
-OPTION 1: PACK THAT SNACK!
+### &nbsp;
+
+### OPTION 1: PACK THAT SNACK!
+
+&nbsp;
 
 Because prior to this WOE I had already been gluten-free for many years, I became accustomed to packing my own airplane meals. Not to pat myself on the back or anything (well, maybe a little…) but my seat-mates while flying were usually jealous looking at my prosciutto-wrapped figs, plump olives, crackers and chunks of beautiful cheeses.
 
@@ -24,67 +28,85 @@ Nowadays, they’re STILL jealous, but my Keto-compliant snacks are even more sa
 
 Here is a list of Keto approved snacks. Do be aware that there ARE carbs in things like nuts, berries, and low carb crackers. Don’t be afraid of them – just make sure you real the labels and factor them into your day!
 
-PERFECT KETO SNACKS FOR TRAVELING (OR ANYTIME!)
+### &nbsp;
+
+### PERFECT KETO SNACKS FOR TRAVELING (OR ANYTIME!)
+
+&nbsp;
 
 \*insert pic 2\*
 
-• 1 oz/28 g portions of nuts or seeds – almonds, cashews, macadamia nuts, pecans, walnuts, pumpkin seeds, sunflower seeds, etc. Be aware that some flights do place restrictions on nut consumption during flights due to severe allergies of other passengers – I would carry a backup snack, too!
+• **1 oz/28 g portions of nuts or seeds** – almonds, cashews, macadamia nuts, pecans, walnuts, pumpkin seeds, sunflower seeds, etc. Be aware that some flights do place restrictions on nut consumption during flights due to severe allergies of other passengers – I would carry a backup snack, too!
 
-• Cheese cut into manageable portions/cubes/slices – count your ounces or use prepackaged serving sizes like string cheese sticks or Babybels
+• **Cheese cut into manageable portions/cubes/slices** – count your ounces or use prepackaged serving sizes like string cheese sticks or Babybels
 
-• Charcuterie like dried salami, prosciutto, bresaola, etc
+• **Charcuterie like dried salami, prosciutto, bresaola, etc**
 
-• Pepperoni slices baked into mozzarella to make mini-pizza-like crispy delights
+• **Pepperoni slices baked into mozzarella to make mini-pizza**-like crispy delights
 
-• Chicharones aka pork rinds
+• **Chicharones aka pork rinds**
+
+&nbsp;
 
 \*insert pic 3\*
 
-• Sugar-free jerky/dried meats – I love Duke’s Shorties Sausages and Bacon Jerky the most!
+&nbsp;
 
-• Olives
+• **Sugar-free jerky/dried meats** – I love Duke’s Shorties Sausages and Bacon Jerky the most!
 
-• Pickles
+• **Olives**
 
-• Hard boiled eggs + a fast food packet of mayonnaise, or just salt (these can be a little stinky, so wait until the “regular” airline meals are served, or at least be quick about eating!)
+**• Pickles**
 
-• Lily’s Chocolate Chips or Bars
+**• Hard boiled eggs + a fast food packet of mayonnaise, or just salt** (these can be a little stinky, so wait until the “regular” airline meals are served, or at least be quick about eating!)
 
-• Individual packets of no-sugar-added nut and/or coconut butter, like these by Artisana or Justin’s
+• **Lily’s Chocolate Chips or Bars**
+
+• **Individual packets of no-sugar**-added nut and/or coconut butter, like these by Artisana or Justin’s
+
+&nbsp;
 
 \*insert pic 4\*
 
-• Chilled chicken salad (chicken mayonnaise for our non-American friends). Chilled tuna or egg salad can work, as well, but you have to deal with the smelly factor!
+&nbsp;
 
-• Deli meat roll-ups: turkey + goat cheese + arugula, pastrami + boursin + spinach, ham + provolone, salami + cream cheese + pickle are all great suggestions, but you roll up what you like! You can even roll these into lettuce leaves if you want a fresh crunch
+• **Chilled chicken salad** (chicken mayonnaise for our non-American friends). Chilled tuna or egg salad can work, as well, but you have to deal with the smelly factor!
 
-• Low carb crackers like Dr. Oetker’s Flackers or cheese-based Whisps
+• **Deli meat roll-ups: turkey + goat cheese + arugula, pastrami + boursin + spinach, ham + provolone, salami + cream cheese + pickle** are all great suggestions, but you roll up what you like! You can even roll these into lettuce leaves if you want a fresh crunch
 
-• Moon Cheese packets from Starbucks
+• **Low carb crackers like Dr. Oetker’s Flackers or cheese-based Whisps**
 
-• Low carb vegetables (broccoli, cauliflower, green beans, celery, peeled cucumber, etc) + a little 1 oz packet/portion container of Ranch/Blue Cheese Dressing/Herbed cr&egrave;me fraiche for dipping
+• **Moon Cheese packets from Starbucks**
 
-• Quiche cups/egg muffins baked ahead of time
+• **Low carb vegetables** (broccoli, cauliflower, green beans, celery, peeled cucumber, etc) + a little 1 oz packet/portion container of Ranch/Blue Cheese Dressing/Herbed cr&egrave;me fraiche for dipping
 
-• Cooked bacon
+• **Quiche cups/egg muffins** baked ahead of time
 
-• Avocado already cut in half + a packet of salt
+• **Cooked bacon**
 
-• Premade Keto waffles + fresh berries
+• **Avocado already cut in half + a packet of salt**
 
-• Protein bars like Quest Bars\*
+• **Premade Keto waffles + fresh berries**
 
-• Fat bombs
+• **Protein bars like Quest Bars\***
 
-• If you’re willing to make and carry an actual meal, DO IT! You just have to follow the regular airport rules about liquids and make sure there is no more than 2 oz total. The TSA may err on the side of caution, so I would advise NOT preparing juicy meals. But there’s no reason you can’t enjoy some Keto Eggroll in a Bowl, or a portion of Keto lasagna, or a homemade Caesar, Cobb, or Chef’s Salad with a 1 oz portion of dressing in a container.
+• **Fat bombs**
 
-• Dry measured-out portions or packets of Keto-friendly protein powder to shake into a bottle of water
+• **If you’re willing to make and carry an actual meal, DO IT!** You just have to follow the regular airport rules about liquids and make sure there is no more than 2 oz total. The TSA may err on the side of caution, so I would advise NOT preparing juicy meals. But there’s no reason you can’t enjoy some Keto Eggroll in a Bowl, or a portion of Keto lasagna, or a homemade Caesar, Cobb, or Chef’s Salad with a 1 oz portion of dressing in a container.
+
+• **Dry measured-out portions or packets of Keto-friendly protein powder** to shake into a bottle of water
 
 \*I am not a HUGE fan because of all of the artificial and processed stuff that’s in them, but when you’re in a pinch, they can be a lifesaver. I keep some in my car glove compartment at all times just in case a Hangry Emergency hits.
 
-OPTION 2: FAST TO LAST!
+### &nbsp;
+
+### OPTION 2: FAST TO LAST!
+
+&nbsp;
 
 \*insert pic 5\*
+
+&nbsp;
 
 This option, in my opinion, is even easier because you do not have to DO anything, buy anything, or make sure you don’t forget anything. It is simply suggesting that you do not eat during your flight. Not eating is otherwise known as fasting, and is something that many people incorporate daily into their Ketogenic lifestyles, referring to it as “Intermittent Fasting”.
 
