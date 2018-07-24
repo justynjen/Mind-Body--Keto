@@ -22,9 +22,15 @@ Airports are often a disaster zone for low carb and Keto travelers. Even before 
 
 Because prior to this WOE I had already been gluten-free for many years, I became accustomed to packing my own airplane meals. Not to pat myself on the back or anything (well, maybe a little…) but my seat-mates while flying were usually jealous looking at my prosciutto-wrapped figs, plump olives, crackers and chunks of beautiful cheeses.
 
+&nbsp;
+
 \*insert pic 1\*
 
+&nbsp;
+
 Nowadays, they’re STILL jealous, but my Keto-compliant snacks are even more satisfying and hunger-crushing than ever before. Now they leave me fueled until well after the plane has touched down, no matter how long my flight is!
+
+&nbsp;
 
 Here is a list of Keto approved snacks. Do be aware that there ARE carbs in things like nuts, berries, and low carb crackers. Don’t be afraid of them – just make sure you real the labels and factor them into your day!
 
