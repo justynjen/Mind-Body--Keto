@@ -3,7 +3,7 @@ layout: posts
 date: 2017-04-12 00:00:00
 feature-image_path: /images/temp-one.jpg
 permalink: '/:categories/:year/:month/:day/:title/'
-title: SUMMERTIME KETO ZUCCHINI CASSEROLE
+title: SIMPLY DELICIOUS CREAMED SWISS CHARD ALL THE YES!
 Author: Nicole
 category: Recipes
 facebook:
