@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2017-07-20 00:00:00
-permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:title'
 feature-image_path: /images/temp-one.jpg
 title: 'GETTING SAUCY WITH CHEF NICOLE: CHEATER’S AIOLI'
 Author: Nicole
@@ -13,27 +13,27 @@ instagram_url:
 
 Aioli is a staple sauce all over the world, creamy and garlicky with a hint of lemon. Whether used as a sandwich spread, topper on freshly prepared meats, or dip for potatoes of any kind, it is a fantastic addition to your repertoire. And we call it Cheater’s Aioli because we use any kind of already prepared mayonnaise as a base and whip all the rich flavor right into it!
 
-&nbsp;
+ 
 
 #### CHEATER’S AIOLI
 
-&nbsp;
+ 
 
 ##### PREP TIME
 
 5 mins
 
-&nbsp;
+ 
 
 ##### TOTAL TIME
 
 5 mins
 
-&nbsp;
+ 
 
 Cheater’s Aioli takes minutes to make, and you can make it your own by adding the fresh herb of your choice. Pro-tip – add basil to make an AMAZING compliment to seared tuna as well as turkey sandwiches! And use in place of regular mayonnaise in traditional savory recipes.
 
-&nbsp;
+ 
 
 Author: Nicole Poirier
 
@@ -43,21 +43,21 @@ Cuisine: European, American, Californian, Vegetarian
 
 Serves: 1 cup
 
-&nbsp;
+ 
 
 ### INGREDIENTS
 
-&nbsp;
+ 
 
 * 1 cup mayonnaise, your choice
 * 2 cloves garlic
 * 1 Tablespoon lemon juice
 * 1 Tablespoon fresh herbs (optional)
 
-&nbsp;
+ 
 
 ### INSTRUCTIONS
 
-&nbsp;
+ 
 
 1. Combine all the ingredients in a blender or food processor and blend until smooth. Use immediately or transfer to a small, lidded container. Will keep for 1 – 2 weeks in the refrigerator.
