@@ -23,19 +23,19 @@ Pic 1: STOP THE DELICIOUSNESS!
 
 &nbsp;
 
-#### &nbsp;PREP TIME
+##### &nbsp;PREP TIME
 
 5 mins
 
 &nbsp;
 
-#### COOK TIME
+##### COOK TIME
 
 15 mins
 
 &nbsp;
 
-#### TOTAL TIME
+##### TOTAL TIME
 
 20 mins
 
