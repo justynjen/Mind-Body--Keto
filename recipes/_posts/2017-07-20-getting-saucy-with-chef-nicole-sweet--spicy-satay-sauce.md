@@ -11,56 +11,57 @@ facebook_url:
 instagram_url:
 ---
 
-Tzatziki is one of my favorite sauces, whether used as a dip for pita or a creamy, cooling, herbaceous side for a rack of lamb. Try replacing your regular dressing for Greek salad with this yummy condiment!
+Everybody loves satay sauce. Sweet and nutty with a little kick – (kinda like Chef Nicole herself!) – it’s also very easy to modify to accommodate most common allergies or dietary restrictions. In the gluten free, dairy free recipe below, you will find options listed to make your satay sauce keto and/or Paleo.
 
- 
+&nbsp;
 
-### GETTING SAUCY WITH CHEF NICOLE: TZATZIKI FOR EVERY BELLY
+### GETTING SAUCY WITH CHEF NICOLE: SWEET & SPICY SATAY SAUCE
 
- 
+&nbsp;
 
 ##### PREP TIME
 
 5 mins
 
- 
+&nbsp;
 
 ##### TOTAL TIME
 
 5 mins
 
- 
+&nbsp;
 
-I love this creamy, herby sauce! But I wanted to make a variation for those who are not into dairy, so every belly can enjoy it!
+Try this sauce for dipping seasoned satay skewers, but also tossed through noodles, zoodles, or even a salad! Fantastic with beef, chicken, pork, shrimp, and vegetables.
 
- 
+&nbsp;
 
 Author: Nicole Poirier
 
-Recipe type: sauce, dip, condiment
+Recipe type: Sauce, Condiment, Dip
 
-Cuisine: Greek, Californian
+Cuisine: Thai, Californian, Paleo, Keto
 
-Serves: 1½ cups
+Serves: 1 cup
 
- 
+&nbsp;
 
 ### INGREDIENTS
 
- 
+&nbsp;
 
-* 1 c greek yogurt/labneh/creme fraiche/coconut cream collected from a can of full-fat coconut milk that has been refrigerated overnight
-* 1 clove garlic, minced
-* ½ cup cucumber, peeled, seeded, and minced or shredded
-* 1 tsp lemon zest (zest lemon before juicing!)
-* 1 Tablespoon lemon juice
-* 1 Tablespoon chopped fresh dill
-* 1 Tablespoon chopped fresh mint
-* Salt & pepper to taste
-*
+* ¼ c creamy plain nut or seed butter (peanut, almond, cashew, sunbutter)
+* ¼ c coconut milk
+* 2 Tablespoons minced shallot or white part of green onion
+* 1 Tablespoon brown sugar/coconut sugar/honey/yacon syrup/erythritol/xylitol
+* 1 Tablespoon fresh lime juice
+* 1 Tablespoon soy sauce/gluten free tamari/coconut aminos
+* 1 Tablespoon sambal/sriracha/chili-garlic paste
+* 1 teaspoon minced fresh ginger
+
+&nbsp;
 
 ### INSTRUCTIONS
 
- 
+&nbsp;
 
-1. Combine all the ingredients in a small bowl. Use creme fraiche for the most Keto-friendly dairy option, coconut cream to make it Paleo, vegan, and/or dairy-free. Enjoy immediately or transfer to a small, lidded container. Will keep for 1 week in the refrigerator.
+1. Combine all ingredients in a small bowl and whisk. Use immediately or transfer to a small lidded jar. Keeps in refrigerator for 1-2 weeks.
