@@ -3,7 +3,7 @@ layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
 feature-image_path: /images/temp-one.jpg
-title: 'GETTING SAUCY WITH CHEF NICOLE: CHEATER’S AIOLI'
+title: 'GETTING SAUCY WITH CHEF NICOLE: TZATZIKI FOR EVERY BELLY'
 Author: Nicole
 category: Recipes
 facebook:
