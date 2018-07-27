@@ -11,53 +11,56 @@ facebook_url:
 instagram_url:
 ---
 
-Aioli is a staple sauce all over the world, creamy and garlicky with a hint of lemon. Whether used as a sandwich spread, topper on freshly prepared meats, or dip for potatoes of any kind, it is a fantastic addition to your repertoire. And we call it Cheater’s Aioli because we use any kind of already prepared mayonnaise as a base and whip all the rich flavor right into it!
+Tzatziki is one of my favorite sauces, whether used as a dip for pita or a creamy, cooling, herbaceous side for a rack of lamb. Try replacing your regular dressing for Greek salad with this yummy condiment!
 
- 
+&nbsp;
 
-#### CHEATER’S AIOLI
+### GETTING SAUCY WITH CHEF NICOLE: TZATZIKI FOR EVERY BELLY
 
- 
+&nbsp;
 
 ##### PREP TIME
 
 5 mins
 
- 
+&nbsp;
 
 ##### TOTAL TIME
 
 5 mins
 
- 
+&nbsp;
 
-Cheater’s Aioli takes minutes to make, and you can make it your own by adding the fresh herb of your choice. Pro-tip – add basil to make an AMAZING compliment to seared tuna as well as turkey sandwiches! And use in place of regular mayonnaise in traditional savory recipes.
+I love this creamy, herby sauce! But I wanted to make a variation for those who are not into dairy, so every belly can enjoy it!
 
- 
+&nbsp;
 
 Author: Nicole Poirier
 
 Recipe type: sauce, dip, condiment
 
-Cuisine: European, American, Californian, Vegetarian
+Cuisine: Greek, Californian
 
-Serves: 1 cup
+Serves: 1½ cups
 
- 
+&nbsp;
 
 ### INGREDIENTS
 
- 
+&nbsp;
 
-* 1 cup mayonnaise, your choice
-* 2 cloves garlic
+* 1 c greek yogurt/labneh/creme fraiche/coconut cream collected from a can of full-fat coconut milk that has been refrigerated overnight
+* 1 clove garlic, minced
+* ½ cup cucumber, peeled, seeded, and minced or shredded
+* 1 tsp lemon zest (zest lemon before juicing!)
 * 1 Tablespoon lemon juice
-* 1 Tablespoon fresh herbs (optional)
-
- 
+* 1 Tablespoon chopped fresh dill
+* 1 Tablespoon chopped fresh mint
+* Salt & pepper to taste
+* &nbsp;
 
 ### INSTRUCTIONS
 
- 
+&nbsp;
 
-1. Combine all the ingredients in a blender or food processor and blend until smooth. Use immediately or transfer to a small, lidded container. Will keep for 1 – 2 weeks in the refrigerator.
+1. Combine all the ingredients in a small bowl. Use creme fraiche for the most Keto-friendly dairy option, coconut cream to make it Paleo, vegan, and/or dairy-free. Enjoy immediately or transfer to a small, lidded container. Will keep for 1 week in the refrigerator.
