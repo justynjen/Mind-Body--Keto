@@ -2,7 +2,7 @@
 layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
-feature-image_path: /images/temp-one.jpg
+feature-image_path: /images/remesco.jpeg
 title: 'GETTING SAUCY WITH CHEF NICOLE: REALLY QUICK ROMESCO THE ROMANCE OF ROMESCO'
 Author: Nicole
 category: Recipes
@@ -11,29 +11,29 @@ facebook_url:
 instagram_url:
 ---
 
-Romesco is a smoky, lightly spicy sauce made with roasted red peppers, almonds, and smoked paprika. It is as good on a sandwich as it is on freshly prepared meats and seafood, or simply used as a dip for crackers or crudit&eacute;s!
+Romesco is a smoky, lightly spicy sauce made with roasted red peppers, almonds, and smoked paprika. It is as good on a sandwich as it is on freshly prepared meats and seafood, or simply used as a dip for crackers or crudités!
 
-&nbsp;
+ 
 
 ### GETTING SAUCY WITH CHEF NICOLE: REALLY QUICK ROMESCO
 
-&nbsp;
+ 
 
 ##### PREP TIME
 
 5 mins
 
-&nbsp;
+ 
 
 ##### TOTAL TIME
 
 5 mins
 
-&nbsp;
+ 
 
 This sauce-dip-condiment tastes light while bringing smoke and depth to whatever you pair it with.
 
-&nbsp;
+ 
 
 Author: Nicole Poirier
 
@@ -43,11 +43,11 @@ Cuisine: Spanish, Californian
 
 Serves: 1 cup
 
-&nbsp;
+ 
 
 ### INGREDIENTS
 
-&nbsp;
+ 
 
 * 1 cup roasted red peppers (or yellow and orange if you want to experiment with color!)
 * 1 garlic clove
@@ -59,10 +59,10 @@ Serves: 1 cup
 * ½ c olive oil
 * Salt & pepper to taste
 
-### &nbsp;
+###  
 
 ### INSTRUCTIONS
 
-&nbsp;
+ 
 
 1. Combine everything up to salt & pepper in blender or food processor. Season to taste before transferring to small lidded jar. Keeps in refrigerator for 1 – 2 weeks.
