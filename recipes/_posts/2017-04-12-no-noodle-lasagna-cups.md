@@ -3,7 +3,7 @@ layout: posts
 date: 2017-04-12 00:00:00
 feature-image_path: /images/temp-one.jpg
 permalink: '/:categories/:year/:month/:day/:title/'
-title: SUMMERTIME KETO ZUCCHINI CASSEROLE
+title: No Noodle Lasagna Cups
 Author: Nicole
 category: Recipes
 facebook:
