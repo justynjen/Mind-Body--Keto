@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2017-04-12 00:00:00
-feature-image_path: /images/temp-one.jpg
+feature-image_path: /images/creamed-swiss-chard.jpg
 permalink: '/:categories/:year/:month/:day/:title/'
 title: SIMPLY DELICIOUS CREAMED SWISS CHARD ALL THE YES!
 Author: Nicole
@@ -15,7 +15,9 @@ I am such a produce addict, and Swiss Chard is one of my favorites. It is a nutr
 
 &nbsp;
 
-Pic 1: STOP THE DELICIOUSNESS!
+![](/images/creamed-swiss-chard.jpg)
+
+STOP THE DELICIOUSNESS!
 
 &nbsp;
 
