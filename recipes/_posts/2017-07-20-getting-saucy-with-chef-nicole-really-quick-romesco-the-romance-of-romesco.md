@@ -11,57 +11,58 @@ facebook_url:
 instagram_url:
 ---
 
-Everybody loves satay sauce. Sweet and nutty with a little kick – (kinda like Chef Nicole herself!) – it’s also very easy to modify to accommodate most common allergies or dietary restrictions. In the gluten free, dairy free recipe below, you will find options listed to make your satay sauce keto and/or Paleo.
+Romesco is a smoky, lightly spicy sauce made with roasted red peppers, almonds, and smoked paprika. It is as good on a sandwich as it is on freshly prepared meats and seafood, or simply used as a dip for crackers or crudit&eacute;s!
 
- 
+&nbsp;
 
-### GETTING SAUCY WITH CHEF NICOLE: SWEET & SPICY SATAY SAUCE
+### GETTING SAUCY WITH CHEF NICOLE: REALLY QUICK ROMESCO
 
- 
+&nbsp;
 
 ##### PREP TIME
 
 5 mins
 
- 
+&nbsp;
 
 ##### TOTAL TIME
 
 5 mins
 
- 
+&nbsp;
 
-Try this sauce for dipping seasoned satay skewers, but also tossed through noodles, zoodles, or even a salad! Fantastic with beef, chicken, pork, shrimp, and vegetables.
+This sauce-dip-condiment tastes light while bringing smoke and depth to whatever you pair it with.
 
- 
+&nbsp;
 
 Author: Nicole Poirier
 
-Recipe type: Sauce, Condiment, Dip
+Recipe type: Sauce, Dip, Condiment
 
-Cuisine: Thai, Californian, Paleo, Keto
+Cuisine: Spanish, Californian
 
 Serves: 1 cup
 
- 
+&nbsp;
 
 ### INGREDIENTS
 
- 
+&nbsp;
 
-* ¼ c creamy plain nut or seed butter (peanut, almond, cashew, sunbutter)
-* ¼ c coconut milk
-* 2 Tablespoons minced shallot or white part of green onion
-* 1 Tablespoon brown sugar/coconut sugar/honey/yacon syrup/erythritol/xylitol
-* 1 Tablespoon fresh lime juice
-* 1 Tablespoon soy sauce/gluten free tamari/coconut aminos
-* 1 Tablespoon sambal/sriracha/chili-garlic paste
-* 1 teaspoon minced fresh ginger
+* 1 cup roasted red peppers (or yellow and orange if you want to experiment with color!)
+* 1 garlic clove
+* ½ c toasted slivered or shaved almonds
+* ¼ c tomato sauce (sometimes I cheat with sugar-free prepared marinara!)
+* 2 Tablespoons sherry vinegar
+* 2 tsp smoked paprika – if you choose hot, you can skip the next ingredient
+* ¼ tsp hot pepper flakes, ground cayenne or chipotle
+* ½ c olive oil
+* Salt & pepper to taste
 
- 
+### &nbsp;
 
 ### INSTRUCTIONS
 
- 
+&nbsp;
 
-1. Combine all ingredients in a small bowl and whisk. Use immediately or transfer to a small lidded jar. Keeps in refrigerator for 1-2 weeks.
+1. Combine everything up to salt & pepper in blender or food processor. Season to taste before transferring to small lidded jar. Keeps in refrigerator for 1 – 2 weeks.
