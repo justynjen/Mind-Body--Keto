@@ -2,7 +2,7 @@
 layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
-feature-image_path: /images/temp-one.jpg
+feature-image_path: /images/cheaters-chimchurri.jpeg
 title: 'GETTING SAUCY WITH CHEF NICOLE: CHEATER’S CHIMICHURRI'
 Author: Nicole
 category: Recipes
@@ -11,7 +11,7 @@ facebook_url:
 instagram_url:
 ---
 
-Pic 1: Cheater’s Chimichurri is the perfect sauce for almost any protein!
+![](/images/cheaters-chimchurri.jpeg)
 
 &nbsp;
 
