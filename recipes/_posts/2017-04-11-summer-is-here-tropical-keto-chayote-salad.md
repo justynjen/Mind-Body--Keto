@@ -115,7 +115,7 @@ Combine the chayote, tomatoes, onion, herbs, and nuts in a mixing bowl.
 
 In a small bowl, combine the fish sauce or alternative, minced garlic, lime juice and stevia. Pour over the vegetables in the mixing bowl.
 
-&nbsp;
+![](/uploads/chayote-salad-side-view-1.png)
 
 Transfer to a serving dish and garnish with additional herbs and chopped peanuts. Enjoy!
 
