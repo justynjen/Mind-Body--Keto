@@ -11,39 +11,43 @@ facebook_url:
 instagram_url:
 ---
 
-Summer-summer-summer-time! Summertime means zucchini-time in my li’l brain. My family had a big, completely unruly and untended vegetable garden that produced 8 billion zucchini no matter HOW much we ignored it! I used to have to wade through thistles and weeds to pick the zukes and heavenly-smelling tomatoes among other veggies. It wasn’t fun – AT ALL – but the payoff was delicious. And that’s all that matters, right?
+🎶Just a spoonful of lasagna makes the tastiness go down, the tastiness go down... Just a spoonful of lasagna makes the tastiness go down in the most delightful way! 🎶
 
-My mom could transform zucchini into as many dishes as Bubba could name shrimp ones in Forrest Gump, and this was before the world even TALKED about zoodles… Zucchini bread, zucchini frittata, stewed zucchini, zucchini cake, zucchini fritters, and my all time favorite – ZUCCHINI CASSEROLE!
+&nbsp;
 
-Creamy, cheesy, half-quiche and half-bread, this casserole was the stuff my dreams were made of. The Bisquick and caramelized onions that it was originally made of imparted a slightly sweet flavor, but definitely kept it from being low-carb. Well, my darlings – I FIXED THAT!
+YES! - I really do sing when I cook, when I eat, when I write - especially when my recipe turns out THIS yummy - AND when I have reached a new low number in my own keto weightloss transformation! After a lifetime of booty-shrinking attempts, it's the combination of low-carb high-fat eating and mindful daily practices that are getting me results! Every. Dang. Day.
 
-I can’t wait until you try this for yourselves – please let me know how it comes out in the comments!
+&nbsp;
 
-### SUMMERTIME KETO ZUCCHINI CASSEROLE
+You CAN have your lasagna and eat it, too! This super simple and delicious recipe doesn't take very long to make and offers 35g of protein and 31g fat with only 4.7 net carbs (5.2 total if that's how you count!). The individual portions can either make dinner for 4 seem "fancy" - OR give you grab & go options for 4 meals during the week! But ya gotta be warned... it's a challenge to stop at one, even if it IS perfectly filling.
 
-### PREP TIME 10 mins
+&nbsp;
 
-### COOK TIME 20 mins
+### No Noodle Lasagna Cups
 
-### TOTAL TIME 30 mins
+##### &nbsp;
 
-Summer is marked by zucchini for me, and I just had a craving for the cheesy, bready, but almost quiche-like zucchini casserole of my childhood! Once you have this easy-to-make-delight, I’ll bet it will be in YOUR repertoire, too.
+##### Serves 4
 
-Author: Nicole PoirierRecipe type: Breakfast, Snack, EasyCuisine: Keto, American, SummerServes: 16 pieces
+&nbsp;
 
-### INGREDIENTS
+**15 min prep - 25 min cook**
 
-●	3 c thinly sliced zucchini●	8 eggs●	¼ c melted salted butter●	1 + ½ c shredded cheddar cheese (I used goat cheddar, because why not?)●	¼ c grated Romano (Parmesan will do, too)●	⅓ c coconut flour●	½ teaspoon baking powder●	Salt & Pepper●	8 x 8 baking dish or something of similar volume
+* 1 lb ground beef (I use&nbsp; grassfed, organic 85/15 or higher fat%)
+* 1/2 c no-sugar added prepared marinara sauce (I used Kirkland Organic)
+* 8oz/1 cup fresh ricotta
+* 1/2 cup shredded mozzarella
+* 2 Tablespoons + 2 teaspoons grated Parmesan or Romano
+* 1 large egg
+* Salt, pepper, garlic powder (to taste)
+* Extra Equipment - 4 8oz/ 1 cup mason jars or ramekins
 
-### INSTRUCTIONS
+&nbsp;
 
-1. Preheat oven to 375ºF.
-2. In a small mixing bowl, whisk together coconut flour, baking powder, pinch salt & pepper until well combined.
-3. In a larger mixing bowl, whisk together eggs, slightly-cooled butter, and grated Romano cheese.
-4. Transfer the dry ingredients into the wet ingredients and whisk well. The mixture will start to thicken.
-5. Fold in the zucchini and 1 cup of the shredded cheddar.
-6. Line an 8 x 8 baking dish with parchment paper and fill with the zucchini mixture.
-7. Sprinkle top with remaining half cup of cheddar cheese and dust with black pepper.
-8. Bake for about 20 minutes, until the casserole is pretty firm to the touch and the cheese on top has turned golden brown in patches.
-9. Remove from the oven and allow to cool for at least 15 minutes if you want somewhat cohesive pieces. Transferring the entire parchment paper & casserole combo to a wire cooling rack will speed up the process.
-10. Cut into 16 serving pieces and enjoy! Garnish with a little extra salt & grated cheese if you so desire!
+Preheat your oven to 350&ordm;F. In a medium frying pan over medium-high heat, saute the ground beef. Season with salt, pepper, and garlic powder according to taste - I put a big pinch of salt in, ~1/2 teaspoon of garlic powder, and a few grinds of black pepper. Once it is cooked through, transfer to a mixing bowl and add 1/2 cup of prepared marinara sauce stir through.
+
+In another bowl, combine ricotta, 2 Tablespoons of parmesan, and egg.
+
+Scoop 1/4 cup of the meat mixture into each of your containers and tamp down. Top with 2 Tablespoons of the ricotta mixture and spread over the meat. Sprinkle 1 Tablespoon of shredded mozzarella on that and repeat the layers a second time. Once you have used the last of your mozzarella, sprinkle 1/2 teaspoon of Parmesan on top of each cup. Place all on a baking tray and pop into the oven for 25 minutes, until the tops are bubbling and golden!
+
+Let cool for a minute and enjoy - possibly with a side of zoodles marinara like I did!
