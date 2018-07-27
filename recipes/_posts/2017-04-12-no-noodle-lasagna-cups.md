@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2017-04-12 00:00:00
-feature-image_path: /images/temp-one.jpg
+feature-image_path: /uploads/no-noodle.jpg
 permalink: '/:categories/:year/:month/:day/:title/'
 title: No Noodle Lasagna Cups
 Author: Nicole
@@ -11,7 +11,7 @@ facebook_url:
 instagram_url:
 ---
 
-🎶Just a spoonful of lasagna makes the tastiness go down, the tastiness go down... Just a spoonful of lasagna makes the tastiness go down in the most delightful way! 🎶
+🎶Just a spoonful of lasagna makes the tastiness go down, the tastiness go down… Just a spoonful of lasagna makes the tastiness go down in the most delightful way! 🎶
 
 &nbsp;
 
@@ -19,7 +19,7 @@ YES! - I really do sing when I cook, when I eat, when I write - especially when 
 
 &nbsp;
 
-You CAN have your lasagna and eat it, too! This super simple and delicious recipe doesn't take very long to make and offers 35g of protein and 31g fat with only 4.7 net carbs (5.2 total if that's how you count!). The individual portions can either make dinner for 4 seem "fancy" - OR give you grab & go options for 4 meals during the week! But ya gotta be warned... it's a challenge to stop at one, even if it IS perfectly filling.
+You CAN have your lasagna and eat it, too! This super simple and delicious recipe doesn't take very long to make and offers 35g of protein and 31g fat with only 4.7 net carbs (5.2 total if that's how you count!). The individual portions can either make dinner for 4 seem "fancy" - OR give you grab & go options for 4 meals during the week! But ya gotta be warned… it's a challenge to stop at one, even if it IS perfectly filling.
 
 &nbsp;
 
@@ -44,10 +44,11 @@ You CAN have your lasagna and eat it, too! This super simple and delicious recip
 
 &nbsp;
 
-Preheat your oven to 350&ordm;F. In a medium frying pan over medium-high heat, saute the ground beef. Season with salt, pepper, and garlic powder according to taste - I put a big pinch of salt in, ~1/2 teaspoon of garlic powder, and a few grinds of black pepper. Once it is cooked through, transfer to a mixing bowl and add 1/2 cup of prepared marinara sauce stir through.
+### INSTRUCTIONS
 
-In another bowl, combine ricotta, 2 Tablespoons of parmesan, and egg.
+&nbsp;
 
-Scoop 1/4 cup of the meat mixture into each of your containers and tamp down. Top with 2 Tablespoons of the ricotta mixture and spread over the meat. Sprinkle 1 Tablespoon of shredded mozzarella on that and repeat the layers a second time. Once you have used the last of your mozzarella, sprinkle 1/2 teaspoon of Parmesan on top of each cup. Place all on a baking tray and pop into the oven for 25 minutes, until the tops are bubbling and golden!
-
-Let cool for a minute and enjoy - possibly with a side of zoodles marinara like I did!
+1. Preheat your oven to 350&ordm;F. In a medium frying pan over medium-high heat, saute the ground beef. Season with salt, pepper, and garlic powder according to taste - I put a big pinch of salt in, ~1/2 teaspoon of garlic powder, and a few grinds of black pepper. Once it is cooked through, transfer to a mixing bowl and add 1/2 cup of prepared marinara sauce stir through.
+2. In another bowl, combine ricotta, 2 Tablespoons of parmesan, and egg.
+3. Scoop 1/4 cup of the meat mixture into each of your containers and tamp down. Top with 2 Tablespoons of the ricotta mixture and spread over the meat. Sprinkle 1 Tablespoon of shredded mozzarella on that and repeat the layers a second time. Once you have used the last of your mozzarella, sprinkle 1/2 teaspoon of Parmesan on top of each cup. Place all on a baking tray and pop into the oven for 25 minutes, until the tops are bubbling and golden!
+4. Let cool for a minute and enjoy - possibly with a side of zoodles marinara like I did!
