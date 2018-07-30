@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2017-07-24 00:00:00
-feature-image_path: /images/temp-four.jpg
+feature-image_path: /uploads/flight-sky-clouds-fly-1.jpg
 title: THE PLANE! THE PLANE! HOW TO STAY KETO WHILE FLYING
 Author: Nicole
 category: Blog
@@ -24,7 +24,7 @@ Because prior to this WOE I had already been gluten-free for many years, I becam
 
 &nbsp;
 
-\*insert pic 1\*
+\*\*Pic 1
 
 &nbsp;
 
