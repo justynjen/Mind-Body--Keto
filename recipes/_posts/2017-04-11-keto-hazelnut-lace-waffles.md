@@ -1,8 +1,8 @@
 ---
 layout: posts
 date: 2017-04-11 00:00:00
-permalink: '/:categories/:year/:month/:day/:title/'
-feature-image_path: /images/temp-one.jpg
+permalink: '/:title/'
+feature-image_path: /uploads/top-down-hazelnut-waffles.jpg
 title: KETO HAZELNUT LACE WAFFLES
 Author: Nicole
 category: Recipes
@@ -15,7 +15,9 @@ Last night, I catered and attended a rather impromptu little dinner party for a 
 
 &nbsp;
 
-Pic1: Trust me on this – you want these Keto Hazelnut Lace Waffles in your face ASAP!
+![](/uploads/hazelnut-lace-waffles-creme-fraiche-jam-feature-pic1-1.png){: srcset="/uploads/hazelnut-lace-waffles-creme-fraiche-jam-feature-pic1-1.png 180w, /uploads/hazelnut-lace-waffles-creme-fraiche-jam-feature-pic1-1@2x.png 360w"}
+
+Trust me on this – you want these Keto Hazelnut Lace Waffles in your face ASAP!
 
 &nbsp;
 
