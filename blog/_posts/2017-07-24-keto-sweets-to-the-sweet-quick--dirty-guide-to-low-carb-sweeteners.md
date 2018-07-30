@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2017-07-24 00:00:00
-feature-image_path: /images/temp-three.jpg
+feature-image_path: /uploads/spoon-2426623-1280.jpg
 title: KETO SWEETS TO THE SWEET! QUICK & DIRTY GUIDE TO LOW CARB SWEETENERS
 Author: Nicole
 category: Blog
@@ -14,47 +14,47 @@ categories:
 
 The primary reason that Keto resonates so strongly with not only me, but a rapidly increasing number of people around the world, is that FINALLY we have a way of eating that does not feel like deprivation. The list of “Foods to Love” when eating ketogenically is long and includes all sorts of yummy options that are all but forbidden in other weight loss approaches, like bacon, brie, and full fat mayonnaise. HALLELUJAH! But what about sweet stuff?
 
-&nbsp;
+ 
 
 Despite the decadence the LCHF lifestyle affords, forces of habit and social conditioning leave a fair amount of us missing sweet options. This is especially true for those trying to release sugar addictions and lifelong candy habits. Expecting someone who has looked forward to sweet treats every day since childhood with a core belief that they are a reward for a job well done is not only unrealistic, but can also be an emotional saboteur that shuts down your Keto journey before you even really begin.
 
-&nbsp;
+ 
 
 ### THE EMOTIONAL COMPONENT OF SWEETNESS
 
-&nbsp;
+ 
 
 We celebrate birthdays and milestones with cakes and holidays with pies. Every calendar holiday has associated special cookies and candies, from chocolate hearts on Valentine’s Day to spritz Christmas biscuits to Mexican wedding cookies. We celebrate big wins for our childhood sports teams with trips to the ice cream shop.
 
-&nbsp;
+ 
 
 From the time we are born, we are bombarded with confirmation that “sweet” equals “good”. I mean, think about it – we even SAY “Sweet!” when something goes our way. We call people “sweetie”. When someone does something kind, we say “Awww! That’s awfully sweet of you.” The concept of La Dolce Vita, aka “the sweet life” is alive and well worldwide.
 
-&nbsp;
+ 
 
 All of this said, OF COURSE we become attached to sweet things. Biologically, the attachment is reinforced by the fact that when we consume sugar, dopamine floods our brain, signaling the experience of pleasure – just as it does with heroin though to a lower extent. Repeated exposure creates a tolerance, and our bodies require more and more to get that “sugar rush”.
 
-&nbsp;
+ 
 
 ### NOW THAT WE’RE LOW CARB, WHAT ARE WE SUPPOSED TO DO ABOUT IT?
 
-&nbsp;
+ 
 
 FEAR NOT, first of all. Both nature and science have supplied us with low carb sweetening options to incorporate into our lives and titillate the sweetness-oriented tastebuds that we were born with! There is no need to go cold turkey with regards to the taste, but we should be educated about which sweeteners will serve you best on your journey to healthy weight, happy hormones, and insulin sensitivity.
 
-&nbsp;
+ 
 
 ### THE GOOD ONES
 
-&nbsp;
+ 
 
 The optimal choices for sweeteners on Keto will be the ones that have a low glycemic index and do not cause an insulinogenic response, aka “an insulin spike”. We want to avoid these insulin spikes because they signal the body to stop burning fat and store it instead. Oh, HELL NO!
 
-&nbsp;
+ 
 
 ##### These guys include:
 
-&nbsp;
+ 
 
 **Stevia** – an extract derived from the stevia or “sweet leaf” plant, this can be 200 times sweeter than sugar! The liquid version is my go-to for sweetening coffee, cold drinks, and batters. I’ll use powdered in a pinch – the individual packets of Stevia In The Raw have become pretty commonplace at the local coffee shops, but commercially available baking blends are often bulked up with maltodextrin, a starch-based filler that can be detrimental to the glycemic index. Also, the powdered versions tend to have a bitter and unpleasant aftertaste.
 
@@ -62,11 +62,11 @@ The optimal choices for sweeteners on Keto will be the ones that have a low glyc
 
 **Monk Fruit Powder (Lo Han)** – THIS magic powder is 300 times sweeter than sugar and has been used to treat obesity and weight-related issues in China and Thailand for ages! It is derived from a fruit and is used to create both granulated substitute for baking as well as syrups for pouring. Monk Fruit also has a slightly cool aftertaste, but lacks the bitterness that stevia may provide. It is also often combined with other sweeteners or fillers, so be aware and read your packaging. Monk Fruit-Stevia blends are fine, but anything with maltodextrin or dextrose should be avoided.
 
-### &nbsp;
+###  
 
 ### THE QUESTIONABLE
 
-&nbsp;
+ 
 
 There are still a bunch of “pros” for the following choices, but I’m not 100% sold.
 
@@ -76,11 +76,11 @@ There are still a bunch of “pros” for the following choices, but I’m not 1
 
 **Aspartame** – I kinda feel dirty even putting this one here because there have been reports of SO MANY potential negative side effects. Aspartame is a chemical sh\*t storm, and has been identified in some studies as a neurotoxin and excitotoxin, but it has no effect on insulin. If you NEED that Diet Coke or the occasional sugar-free Jello cup to stay on track, I’m not going to tell you to deprive yourself. But I will tell you to monitor your consumption and try making the switch to better options.
 
-&nbsp;
+ 
 
 ### THE YOU’LL-PROBABLY-WISH-YOU-HADN’T ONES
 
-&nbsp;
+ 
 
 These last ones may impact your weight loss journey significantly, if not worse.
 
@@ -88,18 +88,18 @@ These last ones may impact your weight loss journey significantly, if not worse.
 
 **Maltitol** – this sugar alcohol is responsible for the hilarious Amazon reviews for Sugar Free Gummy Bears. It is the most common sweetener found in sugar free candy and traditionally “sugary” products like marshmallows at the drugstore/pharmacy/grocery store. Maltitol has a relatively high glycemic index of 60+ and causes that corresponding insulin spike, AND it will have your stomach cramping, belly rumbling, and you running to the bathroom. My recommendation – AVOID. You will not be able to leave your house, your family will not be near you, and you may scare your pets. If you do decide to brave this sweetener, pay attention to the portion size and warnings that you find on the candy packets. THERE ARE WARNINGS ON THE PACKETS.
 
-### &nbsp;
+###  
 
 ### WHAT ABOUT THE OTHER ONES?
 
-&nbsp;
+ 
 
 Yes, there are more low-carb sweeteners out there. But these are the ones you are likely to find at the grocery store or as ingredients to commercially made products. If there is something available to YOU that you would like to see featured, let me know in the comments! I’ll be happy to update this quick & dirty list!
 
-##### &nbsp;
+#####  
 
 ##### REFERENCES:
 
-&nbsp;
+ 
 
 https://pdfs.semanticscholar.org/a92d/a6a734bdfb94bcd4bac54a46222f315f74f5.pdf
