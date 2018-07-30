@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2017-04-11 00:00:00
-feature-image_path: /images/temp-one.jpg
+feature-image_path: /uploads/img-2386-1024x1024.png
 title: HOW TO WRITE AFFIRMATIONS TO CHANGE YOUR MINDSET
 Author: Nicole
 category: Blog
@@ -22,9 +22,15 @@ Not too long ago, a dear friend left me a voicemail saying “I’ve reached tha
 
 Hearing this held up an old (many years old!) mirror for me; I used to repeat something very similar to myself even while running a successful business and appearing to the outside world as a wildly confident and joyful woman. It was almost a MANTRA, and the more I said it (inside my head), the deeper it stuck there.
 
-\*insert pic 1 here\*
+&nbsp;
+
+![](blob:https://app.cloudcannon.com/869f7e43-7256-4e72-b430-7f24607acae2)
+
+&nbsp;
 
 It manifested in my NOT achieving my dreams and feeling as if I was running on a sinking hamster wheel. It meant that my friendships were neglected instead of nurtured because I created stories about them “not wanting to hang out with me anyway”. It meant that I charged well below what I was worth, and honestly, that “successful” business was not affording me the life I REALLY wanted to live.
+
+&nbsp;
 
 ### &nbsp;
 
@@ -32,15 +38,25 @@ It manifested in my NOT achieving my dreams and feeling as if I was running on a
 
 &nbsp;
 
+&nbsp;
+
 Marketing companies and politicians use the same method to get potential customers and/or constituents to believe in their messages. It is called the “Illusory Truth Effect”. Once we hear a message more than 3 times, we begin to honestly believe that it’s true. This may give you a little pause when you hear someone repeating something that you KNOW to be untrue over and over – it’s effective. It’s psychological SCIENCE!
+
+&nbsp;
 
 The good news? Just knowing this gives you as a human a kind of superpower; it frees you to choose what you believe if you remain conscious of what is being communicated to you.
 
+&nbsp;
+
 The bad news? Knowing this also means that from this point forward, you are 100% accountable for the things that you repeat to yourself.
+
+&nbsp;
 
 YOU talk to you more than anybody else in this world. This self-talk shapes all of our personalities and realities. Positive self-talk is reflected in an optimistic approach to life and a greater sense of inner peace. Negative self-talk reinforces pessimism, the belief that the world is against you, and inner turmoil and depression.
 
-\*Insert pic 2 here\*
+&nbsp;
+
+![](/uploads/img-2386-1024x1024-1.png){: srcset="/uploads/img-2386-1024x1024-1.png 480w, /uploads/img-2386-1024x1024-1@2x.png 960w"}
 
 We can easily change the negative to positive no matter what our current life situation is. It’s done with magical little statements called “affirmations”. All we have to do is change our words! That allows us to take our negative thought patterns and statements and replace them with positive ones.
 
@@ -77,6 +93,8 @@ A few guidelines while writing:
 &nbsp;
 
 Patterns can be challenging to break, and it will take effort at the beginning to “believe” the new messages that you are saying to yourself. The remedy for this is repeating them even MORE. I mean HUNDREDS of times per day, every time you have free space in your thoughts. While you’re walking from the bedroom to the kitchen, waiting for the bus, taking out the recycling. Eventually, you will “fake it til you make it”, and by making it, I mean automatically thinking good thoughts.
+
+&nbsp;
 
 The big mistake is thinking that you are lying to yourself. You are using proven scientific methods to reprogram your brain and change your reality. As an amazing coach said to me, you are just “telling the truth in advance”!
 
