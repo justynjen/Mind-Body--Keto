@@ -2,7 +2,7 @@
 layout: posts
 date: 2017-04-12 00:00:00
 feature-image_path: /images/temp-one.jpg
-permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:title/'
 title: KETO RASPBERRY LEMONADE ELECTROLYTE DRINK
 Author: Nicole
 category: Recipes
