@@ -147,6 +147,12 @@ courses:
   </div>
 </div>
 </section>
+<section class="textCenter">
+  <div>
+    <h2 class="cursive padding">Transformations</h2>
+    <img src="/images/julie-transformation.JPG" alt="">
+  </div>
+</section>
 <section class="grid paddingTop">
 <div class="col-6_xs-12 padding textRight">
     <h2 class="cursive">Meet Chef Nicole</h2>
@@ -193,7 +199,7 @@ courses:
     <hr class="hrCenter">
     <div class="grid-middle-center">
 
-       {% for post in site.posts %}
+       {% for post in site.posts limit:4 %}
           {% if post.categories contains 'blog' %}
 
        <div class="col-3_sm-6_xs-12 textCenter">

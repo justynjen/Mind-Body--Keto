@@ -274,8 +274,8 @@ button{
       ***HOME***
 */
 .backgroundBox{
-  margin: 4%;
-  padding: 2%;
+  margin: 2%;
+  padding: 1.2%;
   background-color: rgba(255, 255, 255, 0.75);
   text-align: center;
 }
