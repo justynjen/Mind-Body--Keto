@@ -107,7 +107,11 @@ Enjoy!
 
 Peel the chayote and julienne into matchsticks with a mandoline or sharp knife.
 
+<<<<<<< HEAD
 ![](/uploads/chayote-ingredients-in-mixing-bowl-2.png)
+=======
+![](/uploads/chayote-ingredients-in-mixing-bowl-6.png)
+>>>>>>> ae1671a730be044d239ed34dd09de85ff8370227
 
 Combine the chayote, tomatoes, onion, herbs, and nuts in a mixing bowl.
 
