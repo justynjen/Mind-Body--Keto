@@ -58,7 +58,7 @@ Here is a list of Keto approved snacks. Do be aware that there ARE carbs in thin
 
 &nbsp;
 
-\*insert pic 3\*
+![](/uploads/plane-pic-3.jpg)
 
 &nbsp;
 
