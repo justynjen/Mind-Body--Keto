@@ -24,7 +24,7 @@ Because prior to this WOE I had already been gluten-free for many years, I becam
 
 &nbsp;
 
-\*\*Pic 1
+![](/uploads/pic-1-plane-1.png){: srcset="/uploads/pic-1-plane-1.png 160w, /uploads/pic-1-plane-1@2x.png 320w"}
 
 &nbsp;
 
