@@ -13,7 +13,7 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "default"
-      
+
 
 _options:
   image_path:
@@ -28,4 +28,4 @@ _options:
     resize_style: "cover"
     mime_type: "image/png"
 
-permalink: /:categories/:title/
+permalink: /:title/
