@@ -40,7 +40,11 @@ Here is a list of Keto approved snacks. Do be aware that there ARE carbs in thin
 
 &nbsp;
 
-\*insert pic 2\*
+&nbsp;
+
+![](/uploads/plane-pic-2.png)
+
+&nbsp;
 
 • **1 oz/28 g portions of nuts or seeds** – almonds, cashews, macadamia nuts, pecans, walnuts, pumpkin seeds, sunflower seeds, etc. Be aware that some flights do place restrictions on nut consumption during flights due to severe allergies of other passengers – I would carry a backup snack, too!
 
