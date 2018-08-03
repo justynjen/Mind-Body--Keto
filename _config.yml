@@ -13,8 +13,8 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "default"
-      title: {{ post.title }}
-      banner-image: {{ feature-image_path }}
+      title: "{{ post.title }}"
+      banner-image: "{{ feature-image_path }}"
 
 _options:
   image_path:
