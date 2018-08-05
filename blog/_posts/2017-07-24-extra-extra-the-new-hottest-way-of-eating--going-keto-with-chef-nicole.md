@@ -24,7 +24,7 @@ In simplest terms, Keto is short for “ketogenic”, which means “generating 
 
 &nbsp;
 
-\*insert pic 1:
+##### \*insert pic 1:
 
 &nbsp;
 
