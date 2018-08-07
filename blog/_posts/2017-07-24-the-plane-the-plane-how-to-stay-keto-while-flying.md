@@ -10,6 +10,7 @@ facebook_url:
 instagram_url:
 categories:
   - Blog
+tags: [ blog, travel, keto ]
 ---
 
 Airports are often a disaster zone for low carb and Keto travelers. Even before I began this way of eating (WOE), I still struggled to find healthy, affordable options before flying at most airports! Times are changing, and things ARE slowly getting better, but the best thing to do when you are Keto and flying off to parts unknown is simply this: **BE PREPARED.**
@@ -24,7 +25,7 @@ Because prior to this WOE I had already been gluten-free for many years, I becam
 
 &nbsp;
 
-![](/uploads/pic-1-plane-1.png){: srcset="/uploads/pic-1-plane-1.png 160w, /uploads/pic-1-plane-1@2x.png 320w"}
+![](/uploads/pic-1-plane.png){: .blogImage }
 
 &nbsp;
 
@@ -42,7 +43,7 @@ Here is a list of Keto approved snacks. Do be aware that there ARE carbs in thin
 
 &nbsp;
 
-![](/uploads/plane-pic-2.png)
+![](/uploads/plane-pic-2.png){: .blogImage }
 
 &nbsp;
 
@@ -58,7 +59,7 @@ Here is a list of Keto approved snacks. Do be aware that there ARE carbs in thin
 
 &nbsp;
 
-![](/uploads/plane-pic-3.jpg)
+![](/uploads/plane-pic-3.jpg){: .blogImage }
 
 &nbsp;
 
@@ -76,7 +77,7 @@ Here is a list of Keto approved snacks. Do be aware that there ARE carbs in thin
 
 &nbsp;
 
-![](/uploads/plane-pic-6.png){: srcset="/uploads/plane-pic-6.png 90w, /uploads/plane-pic-6@2x.png 180w"}
+![](/uploads/plane-pic-4.png){: .blogImage }
 
 &nbsp;
 
@@ -116,7 +117,7 @@ Here is a list of Keto approved snacks. Do be aware that there ARE carbs in thin
 
 &nbsp;
 
-![](/uploads/plane-pic-5.png)
+![](/uploads/plane-pic-5.png){: .blogImage }
 
 &nbsp;
 
