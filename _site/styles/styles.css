@@ -93,6 +93,8 @@ a{
 }
 .fullHeight{
   height: 80vh;
+  left: 90px;
+  position: relative;
 }
 .padding{
   padding: 5%;

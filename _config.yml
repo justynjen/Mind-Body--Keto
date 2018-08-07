@@ -1,3 +1,9 @@
+# Build settings
+markdown: kramdown
+collections:
+  products:
+    output: true
+
 categories:
   - Blog
   - Recipes
@@ -9,9 +15,6 @@ tags:
   - Food
   - Recipes
 
-gems:
-
-
 defaults:
   -
     scope:
@@ -19,7 +22,6 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "default"
-
 
 _options:
   image_path:
@@ -35,3 +37,6 @@ _options:
     mime_type: "image/png"
 
 permalink: /:title/
+
+collections:
+    - products

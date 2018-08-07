@@ -1,0 +1,25 @@
+<section class="grid padding">
+  <h2 class="col-12 textCenter padding">Products from Mind Body Keto</h2>
+  <div class="product col-6">
+
+    <a class="product" href="{{ site.baseurl }}{{ product.url }}">
+      <img  class="ebookCover" src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
+
+  </div>
+  <div class="col-6">
+      <h3>{{ product.name }}</h3>
+      <p> {{ product.description }} </p>
+    </a>
+
+    <button class="snipcart-add-item"
+    data-item-name="{{ product.name }}"
+    data-item-id="{{ product.sku }}"
+    data-item-image="{{ product.image }}"
+    data-item-url="{{ site.baseurl }}"
+    data-item-price="{{ product.price }}">
+    Buy it for ${{ product.price }}
+  </button>
+
+</div>
+
+</section>
