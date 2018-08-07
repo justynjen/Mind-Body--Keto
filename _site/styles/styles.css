@@ -92,7 +92,7 @@ a{
   font-size: 3rem;
 }
 .fullHeight{
-  height: 80%;
+  height: 80vh;
 }
 .padding{
   padding: 5%;
@@ -118,6 +118,12 @@ a{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+.ebookCover{
+  height: 92%;
+  width: 75%;
+  left: 110px;
+  position: relative;
 }
 .pinkA{
   color: #ff715b;
@@ -286,7 +292,7 @@ button{
 .backgroundBox2{
   margin: 2%;
   padding: 2%;
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: rgba(255, 255, 255, 0.84);
   text-align: center;
 }
 .parallax1 {

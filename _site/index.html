@@ -11,6 +11,7 @@
 
 <!--  Links to stylesheets -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.4.1/gridlex.min.css" rel="stylesheet" >
+<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans|Sacramento" rel="stylesheet">
@@ -231,20 +232,44 @@
   </div>
 </div>
 </section>
-<!--<section>
-  <form action="your-server-side-code" method="POST">
-  <script
-    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-    data-key="pk_test_g6do5S237ekq10r65BnxO6S0"
-    data-amount="999"
-    data-name="Mind Body Keto"
-    data-description="Enter your card details to purchase."
-    data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
-    data-locale="auto"
-    data-zip-code="true">
-  </script>
-</form>
-</section>-->
+<section class="grid">
+  <h2 class="col-12 textCenter">Grab the Ultimate Keto Recipe Book!</h2>
+  <div class="col-5 textCenter">
+    <img class="ebookCover" src="/images/ebook-cover.png" alt="">
+  </div>
+  <div class="col-7 padding textLeft">
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <br>
+    <h5>$9.99</h5>
+    <button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="Bacon"
+    data-item-price="3.00"
+    data-item-weight="20"
+    data-item-url="http://myapp.com/products/bacon"
+    data-item-description="Some fresh bacon">
+        Buy bacon
+</button>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+      <input type="hidden" name="cmd" value="_xclick">
+      <input type="hidden" name="business" value="9CXCQFCLL4HY6">
+      <input type="hidden" name="lc" value="US">
+      <input type="hidden" name="item_name" value="The Ultimate Keto Recipe Book">
+      <input type="hidden" name="amount" value="0.01">
+      <input type="hidden" name="currency_code" value="USD">
+      <input type="hidden" name="button_subtype" value="services">
+      <input type="hidden" name="tax_rate" value="0.000">
+      <input type="hidden" name="shipping" value="0.00">
+      <input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynow_SM.gif:NonHosted">
+      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+  </form>
+
+  </form>
+
+  </div>
+</section>
 <section class="grid paddingTop">
 <div class="col-6_xs-12 padding textRight">
     <h2 class="cursive">Meet Chef Nicole</h2>
@@ -461,6 +486,11 @@ _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.ma
 var ml_account = ml('accounts', '1217016', 'r2h2h7v8e2', 'load');
 </script>
 <!-- End MailerLite Universal -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="YOUR_API_KEY" id="snipcart"></script>
+
+<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
 
 
   </body>
