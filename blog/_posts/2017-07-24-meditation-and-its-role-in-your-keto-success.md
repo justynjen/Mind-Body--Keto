@@ -18,6 +18,10 @@ A little over a year ago, I began a daily meditation practice, and it has absolu
 
 Countless weight loss and health regimes do recommend using meditation as a tool in your weight loss arsenal. Still, confusion exists about WHY, and I want to help explain that both scientifically and with my own anecdotal experience!
 
+&nbsp;
+
+&lt;iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=96ec52464b3410128bc06ead4430b60e&t=bychefnicole-20&tracking\_id=bychefnicole-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"&gt;&lt;/iframe&gt;
+
 ### &nbsp;
 
 ### WHAT DOES MEDITATION DO FOR YOU?
