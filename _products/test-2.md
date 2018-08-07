@@ -1,5 +1,5 @@
 ---
-name: Simple Summer Keto eBook
+name: Test
 price: 9.99
 slug: simply-keto-summer
 sku: EBK
