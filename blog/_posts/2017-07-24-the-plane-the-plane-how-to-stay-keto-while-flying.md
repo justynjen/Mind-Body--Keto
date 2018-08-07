@@ -25,7 +25,7 @@ Because prior to this WOE I had already been gluten-free for many years, I becam
 
 &nbsp;
 
-![](/uploads/pic-1-plane.png){: .blogImage }
+![Varying Plane Snacks pictured here - like olives, cheese and crackers](/uploads/pic-1-plane.png){: .blog-image }
 
 &nbsp;
 
