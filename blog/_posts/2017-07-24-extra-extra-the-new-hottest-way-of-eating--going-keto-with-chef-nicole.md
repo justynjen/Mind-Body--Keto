@@ -24,9 +24,7 @@ In simplest terms, Keto is short for “ketogenic”, which means “generating 
 
 &nbsp;
 
-##### \*insert pic 1:
-
-&nbsp;
+![](/uploads/extra-extra-blog-pic-1.png)
 
 TEN WEEKS UNTIL MY TRIP TO CARTAGENA, AND I AM DETERMINED TO BE IN MY BEST SHAPE POSSIBLE FOR BIKINI WEATHER! ALREADY ADDICTED TO THE #KETO LIFESTYLE, THIS IS THE KIND OF #DELICIOUS SUFFERING I’M GOING TO HAVE TO PUT UP WITH AT EACH MEAL: GARLIC SAUT&Eacute;ED BABY SPINACH TOPPED WITH TWO #PASTURED#CAGEFREE #EGGS AND HONEY-SMOKED SALMON, ALL #ORGANIC AND #SOGOOD!! 27G PROTEIN, 3G NET CARBS, 28G FAT – #GETINMYBELLY!
 
@@ -57,9 +55,7 @@ It’s simple, really.
 
 &nbsp;
 
-\*insert pic 2\*
-
-&nbsp;
+![](/uploads/extra-extra-blog-pic-2.png)
 
 EARLY #WORKOUT, EARLY #LUNCH TO SATISFY MY #POSTWORKOUT NEEDS! IT MAY LOOK LIKE I’M ENJOYING MYSELF AT A BARBECUE, BUT THIS PLATE IS LITERALLY ALL OF THE GOOD THINGS: #ORGANIC #GLUTENFREE #GRAINFEE#DAIRYFREE #PALEO #KETO #GOODFORYOU AND MOST IMPORTANTLY, #DELICIOUS! FAUXTATO SALAD MADE WITH TURNIPS + TARRAGON + CELERY + AVOCADO MAYO, @SONOMABRINERYMILD SMOKEY CHIPOTLE #PROBIOTIC SAUERKRAUT, AND SIMPLEST SALT & PEPPER BAKED CHICKEN THIGHS. WITH 31G PROTEIN, 11G FAT, 6 NET CARBS, 100% OF RDA VITAMIN C, AND ONLY 271 CALORIES, THIS IS A KICKASS SOURCE OF POST WORKOUT FUEL! AND SO #YUMMY AND #LOWCARB!
 
@@ -83,11 +79,13 @@ Wikipedia caps out the amount of daily carbs at 60 grams per day, but a host of 
 
 &nbsp;
 
-\*Insert pic 3\*
+![](/uploads/extra-extra-blog-pic-3.png)
 
 &nbsp;
 
 Even in the first month (and the photo above is the comparison of Keto for 1 month vs Keto for 2 months), I was realizing – making real – both visible and invisible positive changes.
+
+&nbsp;
 
 1. Near-immediate weight loss
 2. Decrease in chronic inflammation and pain within my body
@@ -124,9 +122,7 @@ I was super strict for a full 6 weeks to ensure that my body was “fat-adapted�
 
 &nbsp;
 
-\*insert pic 4
-
-&nbsp;
+![](/uploads/extra-extra-blog-pic-4.png)
 
 BELIEVE IT OR NOT, THIS IS WHAT A #KETO #LUNCH LOOKS LIKE! UNCURED @COLUMBUSMEATS PASTRAMI + @SONOMABRINERY RAW SMOKEY CHIPOTLE SAUERKRAUT + AVOCADO MAYO + DIJON MUSTARD ON A @KETODIET\_APP ULTIMATE KETO BUN WITH CARAWAY SEEDS = A #PALEO#SANDWICH TO WRITE HOME ABOUT, ESPECIALLY SINCE I PRESSED IT IN A PANINI MAKER! WITH A SIDE OF #ORGANIC GREENS AND SOME @QUESTNUTRITION PROTEIN CHIPS, THIS ENTIRE MEAL CLOCKED IN AT LESS THAN 5 NET CARBS. YOU KNOW, #WEIGHTLOSS NEVER TASTED SO GOOD.
 

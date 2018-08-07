@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2017-04-11 00:00:00
-feature-image_path: /uploads/img-2386-1024x1024.png
+feature-image_path: /uploads/affirmation-blog-1.png
 title: HOW TO WRITE AFFIRMATIONS TO CHANGE YOUR MINDSET
 Author: Nicole
 category: Blog
@@ -24,7 +24,7 @@ Hearing this held up an old (many years old!) mirror for me; I used to repeat so
 
 &nbsp;
 
-![](blob:https://app.cloudcannon.com/869f7e43-7256-4e72-b430-7f24607acae2)
+![](/uploads/affirmation-blog-1.png){: .blog-image }
 
 &nbsp;
 
@@ -56,7 +56,7 @@ YOU talk to you more than anybody else in this world. This self-talk shapes all 
 
 &nbsp;
 
-![](/uploads/img-2386-1024x1024-1.png){: srcset="/uploads/img-2386-1024x1024-1.png 480w, /uploads/img-2386-1024x1024-1@2x.png 960w"}
+![](/uploads/affirmation-blog-2.png){: blog-image }
 
 We can easily change the negative to positive no matter what our current life situation is. It’s done with magical little statements called “affirmations”. All we have to do is change our words! That allows us to take our negative thought patterns and statements and replace them with positive ones.
 

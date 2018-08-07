@@ -34,6 +34,8 @@ It is called “Ketogenic” because when carbohydrates are restricted in the di
 
 Ketosis, the metabolic process that gives the ketogenic diet its name, happens when the body is no longer using glucose, or sugar, as its primary source of fuel. Getting into Ketosis is a pretty simple process:
 
+&nbsp;
+
 1. We take sugar almost entirely out of our diet.
 2. Our bodies burn up what we have left stored for easy access in our liver and muscles.
 3. Once we run out, the body turns to the fat we have stored or fat we consume and uses it as energy. When it breaks down, ketones are formed.
