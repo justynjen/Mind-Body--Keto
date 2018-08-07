@@ -25,7 +25,7 @@ Because prior to this WOE I had already been gluten-free for many years, I becam
 
 &nbsp;
 
-![Varying Plane Snacks pictured here - like olives, cheese and crackers](/uploads/pic-1-plane.png){: .blog-image }
+![Varying Plane Snacks pictured here - like olives, cheese and crackers](/uploads/pic-1-plane.png){:height="50%" width="50%"}
 
 &nbsp;
 
@@ -43,7 +43,7 @@ Here is a list of Keto approved snacks. Do be aware that there ARE carbs in thin
 
 &nbsp;
 
-![](/uploads/plane-pic-2.png){: .blogImage }
+![](/uploads/plane-pic-2.png){:height="50%" width="50%"}
 
 &nbsp;
 
@@ -59,7 +59,7 @@ Here is a list of Keto approved snacks. Do be aware that there ARE carbs in thin
 
 &nbsp;
 
-![](/uploads/plane-pic-3.jpg){: .blogImage }
+![](/uploads/plane-pic-3.jpg){:height="50%" width="50%"}
 
 &nbsp;
 
@@ -77,7 +77,7 @@ Here is a list of Keto approved snacks. Do be aware that there ARE carbs in thin
 
 &nbsp;
 
-![](/uploads/plane-pic-4.png){: .blogImage }
+![](/uploads/plane-pic-4.png){:height="50%" width="50%"}
 
 &nbsp;
 
@@ -117,7 +117,7 @@ Here is a list of Keto approved snacks. Do be aware that there ARE carbs in thin
 
 &nbsp;
 
-![](/uploads/plane-pic-5.png){: .blogImage }
+![](/uploads/plane-pic-5.png){:height="50%" width="50%"}
 
 &nbsp;
 
