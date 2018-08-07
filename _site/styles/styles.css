@@ -91,6 +91,9 @@ a{
   font-family: 'Sacramento', cursive;
   font-size: 3rem;
 }
+.fullHeight{
+  height: 80%;
+}
 .padding{
   padding: 5%;
 }
