@@ -19,18 +19,21 @@ One of the hardest changes to make when you are transitioning your diet to glute
 ![](/uploads/oodles-of-noodles-feature.jpg){:height="50%" width="50%"}
 
 &nbsp;
-<<<<<<< HEAD:recipes/_posts/2017-07-24-oodles-of-keto-gluten-free-and-vegan-noodles-copy.md
+
 
 My Favorite Keto-GF-Vegan Noodles in One Place!
 
 &nbsp;
-=======
->>>>>>> ab3f547d3a3ff8b5e44ebee9a6abe21955d8c9e2:recipes/_posts/2017-07-24-oodles-of-keto-gluten-free-and-vegan-noodles.md
+
 
 Don’t get me wrong – there is not yet a perfect substitute that completely mimics the feel and flavor of traditional wheat-based noodles. This is true even with the fantastic high-carb gluten free options that most grocery stores stock these days! But if you are able to shift your perception just a little bit, and view noodles as
 
-* a component to a dish
-* or a vehicle for delicious sauces as opposed to the main event
+&nbsp;
+
+1. a component to a dish
+2. or a vehicle for delicious sauces as opposed to the main event
+
+&nbsp;
 
 you will be pleasantly surprised by the following alternatives. They also happen to be my five favorites, and have made my California Keto journey thus far MUCH, much easier.
 
