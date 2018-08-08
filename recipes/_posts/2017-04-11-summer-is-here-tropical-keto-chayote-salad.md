@@ -79,7 +79,7 @@ Serves: 4 – 6 servings
 * 1 Tablespoon freshly squeezed lime juice
 * 1 clove garlic, minced
 * 5 drops or 1 packet [stevia](https://www.amazon.com/gp/product/B00NI2CTB0/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00NI2CTB0&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=c5b4680d3867391e52a240e76a3f5ac2)
-* Optional: ⅛ teaspoon chili flakes
+* Optional: ⅛ teaspoon [chili flakes](https://www.amazon.com/gp/product/B073FRT39D/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B073FRT39D&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=f559482da8ef1ed278a0ad6c9b7980b0)
 
 ### &nbsp;
 
