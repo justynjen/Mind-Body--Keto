@@ -39,8 +39,8 @@ You CAN have your lasagna and eat it, too! This super simple and delicious recip
 * 1/2 cup shredded mozzarella
 * 2 Tablespoons + 2 teaspoons grated Parmesan or Romano
 * 1 large egg
-* Salt, pepper, garlic powder (to taste)
-* Extra Equipment - 4 8oz/ 1 cup mason jars or ramekins
+* Salt, pepper, [garlic powder](https://www.amazon.com/gp/product/B000WR8TT0/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000WR8TT0&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=7b8c92ec2732f9bbb47a298139158f37) (to taste)
+* Extra Equipment - 4 8oz/ 1 cup [mason jars ](https://www.amazon.com/gp/product/B00A0KUGYU/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00A0KUGYU&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=f57eb20c6f8de1d30319290d4bec1a64)or ramekins
 
 &nbsp;
 
