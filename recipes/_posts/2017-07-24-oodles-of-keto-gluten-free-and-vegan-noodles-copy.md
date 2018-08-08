@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2017-07-24 00:00:00
-feature-image_path: /uploads/oodles-of-noodles-feature-768x1024.jpg
+feature-image_path: /uploads/oodles-of-noodles-feature.jpg
 title: 'OODLES OF (KETO, GLUTEN FREE, AND VEGAN) NOODLES!'
 Author: Nicole
 category: Recipes
@@ -16,9 +16,13 @@ One of the hardest changes to make when you are transitioning your diet to glute
 
  
 
-\*insert pic 1\* My Favorite Keto-GF-Vegan Noodles in One Place!
+![](/uploads/oodles-of-noodles-feature.jpg){:height="50%" width="50%"}
 
- 
+&nbsp;
+
+My Favorite Keto-GF-Vegan Noodles in One Place!
+
+&nbsp;
 
 Don’t get me wrong – there is not yet a perfect substitute that completely mimics the feel and flavor of traditional wheat-based noodles. This is true even with the fantastic high-carb gluten free options that most grocery stores stock these days! But if you are able to shift your perception just a little bit, and view noodles as
 
@@ -41,7 +45,9 @@ Why they’re awesome – Oh, let me count the ways! They are a mere 2.4 net car
 
  
 
-\*insert pic 2: Zoodle Marinara
+![](/images/zucchini-noodle-marinara-pic-1.jpg){:height="50%" width="50%"}
+
+Zoodle Marinara
 
  
 
@@ -61,7 +67,9 @@ What they are –  “Doodles” are much like “zoodles”, but are made with
 
  
 
-\*insert pic 3:Paleo Ponzu Salmon Over Doodles
+![](/images/daikon-noodles-with-salmon-pic-2.jpg){:height="50%" width="50%"}
+
+Paleo Ponzu Salmon Over Doodles
 
  
 
@@ -81,7 +89,9 @@ What they are –  “Doodles” are much like “zoodles”, but are made with
 
  
 
-\*insert pic 4: Paleo Chicken Caprese with Fried Cabbage Noodles
+![](/images/chicken-on-red-cabbage-noodles-pic-3.jpg){:height="50%" width="50%"}
+
+Paleo Chicken Caprese with Fried Cabbage Noodles
 
  
 
@@ -93,7 +103,7 @@ What they are –  “Doodles” are much like “zoodles”, but are made with
 
  
 
-\*insert pic 5:
+![](/images/Screen-Shot-pic-4.png){:height="50%" width="50%"}
 
  
 
@@ -125,7 +135,9 @@ What they are –  “Doodles” are much like “zoodles”, but are made with
 
  
 
-\*insert pic 6: Dry-Frying Shirataki Noodles to Eliminate Excess Liquid
+![](/images/noodles-pic-5.jpg){:height="50%" width="50%"}
+
+Dry-Frying Shirataki Noodles to Eliminate Excess Liquid
 
  
 
@@ -151,7 +163,9 @@ And final note – **READ THE LABEL AND MAKE SURE IT IS PURE KONJAC.** “Tofu S
 
  
 
-\*insert pic 7: Healthy Noodle Carbonara
+![](/images/healthy-noodle-carbonara-pic-6.jpg){:height="50%" width="50%"}
+
+Healthy Noodle Carbonara
 
  
 
