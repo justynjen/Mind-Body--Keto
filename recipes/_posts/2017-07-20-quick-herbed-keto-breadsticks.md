@@ -37,10 +37,10 @@ Makes 16 - 18 pieces, 4 - 5 per serving
 
 * 3/4 c [almond flour](https://www.amazon.com/gp/product/B0055IRNAC/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0055IRNAC&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=3ec8cd750e45a2592aeb2ba6969e90e5)
 * 2 teaspoons [baking powder](https://www.amazon.com/gp/product/B0094ENXU2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0094ENXU2&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=df04ef77ee529b2172bfbd969012a9f4)
-* 1 teaspoon Herbs de Provence blend
+* 1 teaspoon [Herbes de Provence blend](https://www.amazon.com/gp/product/B00AJRKITM/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00AJRKITM&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=1d6ca9390b091a5566778d4ed6373f46)
 * 1/2 teaspoon [onion powder](https://www.amazon.com/gp/product/B005P0TJ4I/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B005P0TJ4I&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=23feee1202441407a22b3628269bece2)
 * 4 eggs
-* 4 Tablespoons butter, ghee, or coconut oil, melted (I used salted butter)
+* 4 Tablespoons butter, ghee, or [coconut oil](https://www.amazon.com/gp/product/B06Y4SZ3DZ/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B06Y4SZ3DZ&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=ebd14bc17f223e1d43825020fa487ada), melted (I used salted butter)
 * 1/8 teaspoon salt if not using salted butter
 
 &nbsp;
