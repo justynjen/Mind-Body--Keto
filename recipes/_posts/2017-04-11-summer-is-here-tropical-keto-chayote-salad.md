@@ -15,6 +15,10 @@ Summer. Is. Officially. HERE!! YAY! And with it, super warm weather all over the
 
 &nbsp;
 
+![](/uploads/chayote-just-chayote.jpg){:height="50%" width="50%"}
+
+&nbsp;
+
 I discovered chayote (also known as christophine, pipinola, choko, mirliton, and vegetable pear among others) while working as a yacht chef sailing in the Caribbean. I wondered what the heck these weird-looking produce items even WERE when I first saw them, and I was seeing them everywhere. Finally, after many sightings but no tastings, I decided to bite the bullet and do that thing that chefs do, ordering a “Christophine Farcie avec Crabe” in a tiny waterfront restaurant in the still pretty rustic &Icirc;les de Saintes, a Guadeloupe dependent archipelago in the French Antilles.
 
 &nbsp;
@@ -103,21 +107,25 @@ Enjoy!
 
 &nbsp;
 
-![](/uploads/chayote-mandoline-4.png)
+![](/uploads/chayote-mandoline-4.png){:height="50%" width="50%"}
 
 Peel the chayote and julienne into matchsticks with a mandoline or sharp knife.
 
-&laquo;&laquo;&laquo;&lt; HEAD ![](/uploads/chayote-ingredients-in-mixing-bowl-2.png) ======= ![](/uploads/chayote-ingredients-in-mixing-bowl-6.png)
+&nbsp;
 
-> > > > > > > ae1671a730be044d239ed34dd09de85ff8370227
+![](/uploads/chayote-ingredients-in-mixing-bowl.jpg){:height="50%" width="50%"}
 
 Combine the chayote, tomatoes, onion, herbs, and nuts in a mixing bowl.
 
-![](/uploads/chayote-salad-dressing.png)
+&nbsp;
+
+![](/uploads/chayote-salad-dressing.png){:height="50%" width="50%"}
 
 In a small bowl, combine the fish sauce or alternative, minced garlic, lime juice and stevia. Pour over the vegetables in the mixing bowl.
 
-![](/uploads/chayote-salad-side-view-1.png)
+&nbsp;
+
+![](/uploads/chayote-salad-side-view-1.png){:height="50%" width="50%"}
 
 Transfer to a serving dish and garnish with additional herbs and chopped peanuts. Enjoy!
 

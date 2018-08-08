@@ -63,14 +63,6 @@ ul {
 a{
   color: black;
 }
-.styledA a{
-  text-decoration: none;
-  color: black;
-  display: inline-block;
-  font-size: 1rem;
-  font-weight: lighter;
-  vertical-align: middle;
-}
 /*
       ***HELPERS***
 */
@@ -82,6 +74,14 @@ a{
 }
 .textLeft{
   text-align: left;
+}
+.styledA a{
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: lighter;
+  vertical-align: middle;
 }
 .cursive{
   font-family: 'Sacramento', cursive;
@@ -172,7 +172,14 @@ button{
   border-radius: 3px;
   padding: 1%;
   font-size: 1.3rem;
+  text-decoration: none;
   font-weight: 400;
+}
+button a{
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-weight: lighter;
 }
 .footerButton{
   background-color: #ff715b;
