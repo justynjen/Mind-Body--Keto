@@ -69,12 +69,12 @@ Serves: 6 servings
 
 &nbsp;
 
-* 1 cup almond or hazelnut flour
+* 1 cup [almond](https://www.amazon.com/gp/product/B00IDLV6OM/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00IDLV6OM&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=c617e745b2b8835d050246ca1ce4d529) or [hazelnut](https://www.amazon.com/gp/product/B00MFC5EUC/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00MFC5EUC&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=559b2e0270dd1280d43aec831d0bba70) flour
 * 1 cup unsweetened almond milk
 * 3 eggs
-* 2 Tablespoons hazelnut oil
-* ½ teaspoon baking powder
-* Pinch Himalayan salt
+* 2 Tablespoons [hazelnut oil](https://www.amazon.com/gp/product/B0087G8TL6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0087G8TL6&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=40702a57b31e5eb245635499a2272a34)
+* ½ teaspoon [baking powder](https://www.amazon.com/gp/product/B0094ENXU2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0094ENXU2&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=3196b97c0c9e18111c5a694009a1bd72)
+* Pinch [Himalayan salt](https://www.amazon.com/gp/product/B071GRSDBN/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B071GRSDBN&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=32a5179deaacca60e5d74807642c3992)
 * Additional equipment: waffle iron
 
 &nbsp;
