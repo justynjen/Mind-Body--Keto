@@ -74,12 +74,12 @@ Serves: 4 – 6 servings
 * 2 Tablespoons shaved sweet or red onion or shallot
 * 2 Tablespoons roughly chopped mint
 * 2 Tablespoons roughly chopped cilantro
-* ¼ cup roasted peanuts (you can substitute cashews or almonds if you desire)
-* 1 Tablespoon fish sauce, coconut aminos, or tamari (soy sauce if you are not gluten free!)
+* ¼ cup [roasted peanuts](https://www.amazon.com/gp/product/B00NOYCM3M/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00NOYCM3M&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=99010380772271a48f336234e12738f6) (you can substitute cashews or almonds if you desire)
+* 1 Tablespoon fish sauce, [coconut aminos](https://www.amazon.com/gp/product/B07DDM5S5X/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B07DDM5S5X&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=425a9a65cd3bb243ccd40e522dd4fbaf), or tamari (soy sauce if you are not gluten free!)
 * 1 Tablespoon freshly squeezed lime juice
 * 1 clove garlic, minced
-* 5 drops or 1 packet stevia
-* Optional: ⅛ teaspoon chili flakes
+* 5 drops or 1 packet [stevia](https://www.amazon.com/gp/product/B00NI2CTB0/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00NI2CTB0&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=c5b4680d3867391e52a240e76a3f5ac2)
+* Optional: ⅛ teaspoon [chili flakes](https://www.amazon.com/gp/product/B073FRT39D/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B073FRT39D&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=f559482da8ef1ed278a0ad6c9b7980b0)
 
 ### &nbsp;
 
@@ -107,11 +107,9 @@ Enjoy!
 
 Peel the chayote and julienne into matchsticks with a mandoline or sharp knife.
 
-<<<<<<< HEAD
-![](/uploads/chayote-ingredients-in-mixing-bowl-2.png)
-=======
-![](/uploads/chayote-ingredients-in-mixing-bowl-6.png)
->>>>>>> ae1671a730be044d239ed34dd09de85ff8370227
+&laquo;&laquo;&laquo;&lt; HEAD ![](/uploads/chayote-ingredients-in-mixing-bowl-2.png) ======= ![](/uploads/chayote-ingredients-in-mixing-bowl-6.png)
+
+> > > > > > > ae1671a730be044d239ed34dd09de85ff8370227
 
 Combine the chayote, tomatoes, onion, herbs, and nuts in a mixing bowl.
 

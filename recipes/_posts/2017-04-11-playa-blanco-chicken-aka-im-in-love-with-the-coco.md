@@ -91,7 +91,7 @@ Serves: 4 servings
 * 1 14 oz/400 ml can coconut milk, full fat
 * ½ teaspoon ground turmeric
 * ¼ teaspoon ground ginger
-* ½ teaspoon sea or Himalayan salt
+* ½ teaspoon sea or [Himalayan salt](https://www.amazon.com/gp/product/B071GRSDBN/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B071GRSDBN&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=48783f13169edebb55af7e9cd021a10e)
 * ¼ teaspoon freshly ground black pepper (leave out for AIP)
 * Juice of ½ lime
 

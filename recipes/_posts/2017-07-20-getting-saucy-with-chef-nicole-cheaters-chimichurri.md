@@ -65,7 +65,7 @@ Serves: 1.5 cups
 * ½ c olive oil
 * ¼ c red wine vinegar
 * 2 Tablespoons fresh oregano
-* ½ tsp salt
+* ½ tsp [Himalayan salt](https://www.amazon.com/gp/product/B0154XDQTO/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0154XDQTO&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=030379e1a2c44ab2e413493f3a8120ee)
 * Few grinds freshly ground pepper, to taste
 * Optional additions: dill, basil, ½ tsp cumin
 * For preserving – 2 Tablespoons additional olive oil

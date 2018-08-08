@@ -66,8 +66,8 @@ Serves: 16 pieces
 * ¼ c melted salted butter
 * 1 + ½ c shredded cheddar cheese (I used goat cheddar, because why not?)
 * ¼ c grated Romano (Parmesan will do, too)
-* ⅓ c coconut flour
-* ½ teaspoon baking powder
+* ⅓ c [coconut flour](https://www.amazon.com/gp/product/B0098OD4DO/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0098OD4DO&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=57fb620b32670a2f8484be30d2cbe6db)
+* ½ teaspoon [baking powder](https://www.amazon.com/gp/product/B0094ENXU2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0094ENXU2&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=df04ef77ee529b2172bfbd969012a9f4)
 * Salt & Pepper
 * 8 x 8 baking dish or something of similar volume
 

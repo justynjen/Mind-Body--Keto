@@ -66,8 +66,8 @@ Serves: 4 servings
 * 2 Tablespoons mascarpone
 * 1 Tablespoon salted butter
 * ¼-1/2 teaspoon salt
-* ¼ teaspoon garlic powder
-* ¼ teaspoon onion powder
+* ¼ teaspoon&nbsp;[garlic powder](https://www.amazon.com/gp/product/B000WR8TT0/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000WR8TT0&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=2332df93e66010541430abe9164a0e5c)
+* ¼ teaspoon [onion powder](https://www.amazon.com/gp/product/B005P0TJ4I/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B005P0TJ4I&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=23feee1202441407a22b3628269bece2)
 
 ### &nbsp;
 

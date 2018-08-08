@@ -106,10 +106,10 @@ Serves: 1 serving
 
 &nbsp;
 
-* ⅓ cup / 30g egg white protein powder
-* 2 Tablespoons / 12 g collagen hydrolysate
-* 1½ teaspoons / 7 g greens powder, such as Amazing Grass or Vibrant Greens
-* ⅛ teaspoon probiotic powder (if your greens powder does not include probiotics
+* ⅓ cup / 30g [egg white protein powder](https://www.amazon.com/gp/product/B01MYVBT00/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B01MYVBT00&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=e8a8936770300b412da67efaffcb5240)
+* 2 Tablespoons / 12 g [collagen hydrolysate](https://www.amazon.com/gp/product/B01A1G47L0/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B01A1G47L0&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=589a1248a054b93319bce900ba28efff)
+* 1½ teaspoons / 7 g greens powder, such as [Amazing Grass](https://www.amazon.com/gp/product/B0038B3AAK/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0038B3AAK&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=0597211f80cf73557eb31d6ae6309d9a) or [Vibrant Greens](https://www.amazon.com/gp/product/B00SK66KR8/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00SK66KR8&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=86a6da88ab82810312605360dd8433b2)
+* ⅛ teaspoon [probiotic powder](https://www.amazon.com/gp/product/B008SBCXSK/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B008SBCXSK&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=f0cf2f9e637feffcbe8ddd66b8f56c7c) (if your greens powder does not include probiotics)
 * 12 – 16 oz / 350 – 475 ml water or unsweetened nut milk
 * Additional equipment: shaker cup or blender
 
