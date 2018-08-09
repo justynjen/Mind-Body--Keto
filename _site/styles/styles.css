@@ -435,11 +435,11 @@ button a{
 }
 .hamburger-menu a {
   text-decoration: none;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 300;
   color:black;
-  font-family: 'Lato', sans-serif;
   display:block;
+  text-transform: uppercase;
   padding:8px 15px;
   white-space:nowrap;
 }
