@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 Lately, I’ve been craving the tastes of home. You know what I’m talking about – the “mom” flavors that transport you back into the kitchen with her and her always-perfect-temperature-and-consistency glass of iced coffee, iced tea, soda – whatever! Poor Mom – my siblings and I were FOREVER stealing sips and gulps from her drinks. I don’t know if she ever got to enjoy a full glass she poured for herself while us kids were around…

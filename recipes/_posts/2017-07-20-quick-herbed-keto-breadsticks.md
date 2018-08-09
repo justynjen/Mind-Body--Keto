@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 On Sundays, I TOTALLY get the “brunchies”… You know, the uncontrollable desire to eat an even BETTER and more elaborated breakfast than normal and find a friend or two to share it with? You already KNOW my breakfast game is on point, but this keto chef always has a few tricks up her sleeve!

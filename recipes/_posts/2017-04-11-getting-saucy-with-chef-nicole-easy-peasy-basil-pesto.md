@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 Basil pesto is one of the most celebrated and adaptable quick sauces out there. To make this pesto vegan and easy to stir into soups or mayonnaise[1] , just leave out the cheese. It is still absolutely delicious!

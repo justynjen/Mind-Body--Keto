@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 CHEESE AND RICE!!! Hahaha – that has always been one of my favorite blasphemous swear-replacers, but it’s also a really tasty dish. I mean, any combination of carbs and cheese really tickles most tastebuds – until you bite the bullet and start “living la vida low-carb”, that is! Thank goodness for cauliflower rice – especially the salsa-infused kind from my last recipe –  because it really is a wonderful vehicle for creamy, cheesy, deliciousness if that is something that you can include in your diet. Add an egg and we are enjoying the easy Mexican-inspired individual breakfast casseroles of the titular fame!

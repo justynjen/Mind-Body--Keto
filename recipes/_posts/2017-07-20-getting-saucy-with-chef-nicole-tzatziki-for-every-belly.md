@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 Tzatziki is one of my favorite sauces, whether used as a dip for pita or a creamy, cooling, herbaceous side for a rack of lamb. Try replacing your regular dressing for Greek salad with this yummy condiment!

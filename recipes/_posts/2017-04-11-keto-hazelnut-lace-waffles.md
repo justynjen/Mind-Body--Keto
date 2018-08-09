@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 Last night, I catered and attended a rather impromptu little dinner party for a treasured friend and client. I feel so fortunate that I get to work with people I adore, and that oftentimes, I can surprise them with a menu that I know that they will love based on my past interactions. It’s the BEST; as a chef, I feel like \*I\* am truly involved in the hosting of the party. And I often come up with menus that I would serve at my own dinner parties! That allows me to put even more of my heart, presence, and creativity into the meal – a hugely important factor. These hazelnut lace waffles came together with all of that and more!

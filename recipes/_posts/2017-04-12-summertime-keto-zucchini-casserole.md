@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 Summer-summer-summer-time! Summertime means zucchini-time in my li’l brain. My family had a big, completely unruly and untended vegetable garden that produced 8 billion zucchini no matter HOW much we ignored it! I used to have to wade through thistles and weeds to pick the zukes and heavenly-smelling tomatoes among other veggies. It wasn’t fun – AT ALL – but the payoff was delicious. And that’s all that matters, right?

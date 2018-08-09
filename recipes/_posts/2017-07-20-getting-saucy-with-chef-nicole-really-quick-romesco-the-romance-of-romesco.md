@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 Romesco is a smoky, lightly spicy sauce made with roasted red peppers, almonds, and smoked paprika. It is as good on a sandwich as it is on freshly prepared meats and seafood, or simply used as a dip for crackers or crudit&eacute;s!

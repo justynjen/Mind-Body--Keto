@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 Honeys, I have loved a good party since I was knee-high to a grasshopper, and it only continued as gatherings of food and friends populated so much of my life. By the time I was fourteen and given the assignment of visualizing my life 10 years in the future, one of my goals was to become the consummate hostess. It’s really no wonder that I became a chef to make that former dream a total reality!

@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 🎶Just a spoonful of lasagna makes the tastiness go down, the tastiness go down… Just a spoonful of lasagna makes the tastiness go down in the most delightful way! 🎶

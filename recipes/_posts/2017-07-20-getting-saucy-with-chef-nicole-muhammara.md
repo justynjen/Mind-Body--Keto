@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 Muhammara is a rich, walnut and roasted pepper based sauce to bring Middle Eastern flair to your palate. Try using it as a replacement for ketchup for a sweet yet rich alternative. Keto-friendly option can be made by replacing traditional pomegranate molasses with low-carb yacon syrup!

@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 Oh, my word – I’m about to get all up in your grill with this delicious, tropical recipe. And you KNOW I mean your backyard barbecue grill! You can totally make this quick coconut-turmeric-ginger-lime-black pepper chicken on the stovetop or in the oven as well, but the point is, you have to make it, and taste it, and fall madly in love like I did with its creamy, marinated deliciousness…

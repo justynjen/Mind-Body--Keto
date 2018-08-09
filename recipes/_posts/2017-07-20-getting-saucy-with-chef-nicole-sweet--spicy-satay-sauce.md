@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 Everybody loves satay sauce. Sweet and nutty with a little kick – (kinda like Chef Nicole herself!) – it’s also very easy to modify to accommodate most common allergies or dietary restrictions. In the gluten free, dairy free recipe below, you will find options listed to make your satay sauce keto and/or Paleo.

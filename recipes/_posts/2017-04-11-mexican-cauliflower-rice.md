@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 Not too long ago, one of my treasured clients commented on an Instagram post. They suggested that my presence was needed where they were staying in Mexico to help guide them through eating Keto while taking advantage of the beautiful local produce & market fare. While the opportunity to go never quite came to pass this time around, it sure did inspire some “MexiKeto” creativity! And so, I begin with Mexican cauliflower rice, a low carb, high-fiber salsa-infused treat.

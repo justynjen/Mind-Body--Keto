@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 Aioli is a staple sauce all over the world, creamy and garlicky with a hint of lemon. Whether used as a sandwich spread, topper on freshly prepared meats, or dip for potatoes of any kind, it is a fantastic addition to your repertoire. And we call it Cheater’s Aioli because we use any kind of already prepared mayonnaise as a base and whip all the rich flavor right into it!

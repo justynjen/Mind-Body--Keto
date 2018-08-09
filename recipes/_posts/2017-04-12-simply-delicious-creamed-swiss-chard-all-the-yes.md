@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 I am such a produce addict, and Swiss Chard is one of my favorites. It is a nutrient powerhouse, super high in fiber, and it’s also super yummy. Add some cream and mascarpone and OH MY WORD. I promise, you’ll be in heaven…

@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 Summer. Is. Officially. HERE!! YAY! And with it, super warm weather all over the place. I don’t know about you, but there’s nothing better to eat on a hot day than a crisp, cool, and hydrating salad. Enter this tropical chayote squash salad, smashing together Southeast Asian cuisine with Mexican/Caribbean style ingredients!

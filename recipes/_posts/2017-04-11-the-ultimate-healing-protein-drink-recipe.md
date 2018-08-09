@@ -9,6 +9,8 @@ category: Recipes
 facebook:
 facebook_url:
 instagram_url:
+categories:
+  - Recipes
 ---
 
 <br>Do you want to feel better, look better, have your hair grow faster, get glowing skin, boost your daily nutrition, AND work on your gut health with one simple daily beverage?
