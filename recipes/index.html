@@ -13,20 +13,27 @@ subtitle: Recipes that will change the way you live.
   </div>
 </section>
 <section class="paddingBottom">
-  <div class="grid-middle-center">
+  <div class="textCenter grid-middle">
 
    {% for post in site.posts %}
       {% if post.categories contains 'recipes' %}
 
-   <div class="col-4_sm-6_xs-12 textCenter">
-     <div class="backgroundBox">
-       <img class="shortImage" src="{{ post.feature-image_path }} " alt="">
-       <div class="centered">
-         <h3 class="textCenter styledA"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-         <a href="{{post.url}}" class="pinkA textCenter"> Read More</a>
-       </div>
-     </div>
-   </div>
+    <div class="col-4_sm-6_xs-12">
+      <a href="{{post.url}}">
+        <figure>
+          <div>
+            <img class="recipeImage" src="{{ post.feature-image_path }} " alt="">
+          </div>
+
+          <figcaption>
+            <h3 class="textCenter styledA"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          </figcaption>
+        </figure>
+      </a>
+    </div>
+
+
+
       {% endif %}
    {% endfor %}
 
