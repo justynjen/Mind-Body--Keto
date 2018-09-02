@@ -5,7 +5,7 @@ feature-image_path: /uploads/chef-nicole.png
 title: Blog-Test
 Author: Nicole
 category: Blog
-published: false
+published: true
 facebook:
 facebook_url:
 instagram_url:
