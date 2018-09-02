@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: recipes
 date: 2017-04-11 00:00:00
 permalink: '/:title/'
 feature-image_path: /uploads/easy-basil-pesto.jpeg
