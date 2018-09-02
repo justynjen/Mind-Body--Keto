@@ -18,7 +18,7 @@ img {
     height: auto;
 }
 p{
-    font-size: 1rem;
+    font-size: .9rem;
     line-height: 1.6
 }
 h1, h2, h3, h4, h5, p, li {
@@ -62,6 +62,7 @@ ul {
 }
 a{
   color: black;
+  font-size: .9rem;
 }
 /*
       ***HELPERS***
@@ -79,7 +80,7 @@ a{
   text-decoration: none;
   color: black;
   display: inline-block;
-  font-size: 1rem;
+  font-size: .9rem;
   font-weight: lighter;
   vertical-align: middle;
 }
@@ -139,7 +140,7 @@ a{
 }
 .pinkA{
   color: #ff715b;
-  font-size: 1rem;
+  font-size: .9rem;
 }
 .listStyle{
   font-size: 1.2rem;
@@ -209,7 +210,7 @@ button a{
     background-color: white;
     color: black;
     padding: 14px;
-    font-size: 16px;
+    font-size: .9rem;
     border: none;
 }
 
@@ -272,7 +273,7 @@ button a{
 /* Navbar links */
 #navigation .navbar ul li, .logo a {
   color: #005791;
-  font-size: 14px;
+  font-size: .9rem;
   font-weight: 600;
   text-transform: uppercase;
   display: flex;
