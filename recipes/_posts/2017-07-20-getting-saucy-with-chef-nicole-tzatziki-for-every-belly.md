@@ -6,7 +6,7 @@ feature-image_path: /images/tzatziki.jpeg
 title: 'GETTING SAUCY WITH CHEF NICOLE: TZATZIKI FOR EVERY BELLY'
 Author: Nicole
 category: Recipes
-facebook:
+published: true
 facebook_url:
 instagram_url:
 categories:

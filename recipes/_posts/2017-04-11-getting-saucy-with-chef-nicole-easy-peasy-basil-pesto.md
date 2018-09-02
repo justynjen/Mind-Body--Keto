@@ -6,7 +6,7 @@ feature-image_path: /uploads/easy-basil-pesto.jpeg
 title: 'GETTING SAUCY WITH CHEF NICOLE: EASY PEASY BASIL PESTO'
 Author: Nicole
 category: Recipes
-facebook:
+published: true
 facebook_url:
 instagram_url:
 categories:

@@ -6,9 +6,9 @@ permalink: '/:title/'
 title: PLAYA BLANCO CHICKEN AKA I’M IN LOVE WITH THE COCO!
 Author: Nicole
 category: Recipes
-facebook:
+published: true
 facebook_url:
-instagram_url:
+instagram_url: https://instagram.com/mind_body_keto
 categories:
   - Recipes
 ---

@@ -6,7 +6,7 @@ feature-image_path: /images/satay.jpeg
 title: 'GETTING SAUCY WITH CHEF NICOLE: SWEET & SPICY SATAY SAUCE'
 Author: Nicole
 category: Recipes
-facebook:
+published: true
 facebook_url:
 instagram_url:
 categories:

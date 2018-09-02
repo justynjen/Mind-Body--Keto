@@ -6,7 +6,7 @@ feature-image_path: /images/ultimate-protien.jpg
 title: THE ULTIMATE HEALING PROTEIN DRINK RECIPE
 Author: Nicole
 category: Recipes
-facebook:
+published: true
 facebook_url:
 instagram_url:
 categories:

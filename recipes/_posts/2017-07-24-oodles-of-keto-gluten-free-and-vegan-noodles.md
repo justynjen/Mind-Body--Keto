@@ -5,7 +5,7 @@ feature-image_path: /uploads/oodles-of-noodles-feature.jpg
 title: 'OODLES OF (KETO, GLUTEN FREE, AND VEGAN) NOODLES!'
 Author: Nicole
 category: Recipes
-facebook:
+published: true
 facebook_url:
 instagram_url:
 categories:

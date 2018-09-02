@@ -6,7 +6,7 @@ permalink: '/:title/'
 title: SUMMER IS HERE! TROPICAL KETO CHAYOTE SALAD
 Author: Nicole
 category: Recipes
-facebook:
+published: true
 facebook_url:
 instagram_url:
 categories:

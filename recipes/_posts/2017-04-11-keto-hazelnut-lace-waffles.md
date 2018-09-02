@@ -6,7 +6,7 @@ feature-image_path: /uploads/top-down-hazelnut-waffles.jpg
 title: KETO HAZELNUT LACE WAFFLES
 Author: Nicole
 category: Recipes
-facebook:
+published: true
 facebook_url:
 instagram_url:
 categories:

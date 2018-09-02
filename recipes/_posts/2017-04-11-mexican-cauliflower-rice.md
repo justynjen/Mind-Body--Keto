@@ -6,7 +6,7 @@ feature-image_path: /uploads/cauliflower-rice.jpg
 title: MEXICAN CAULIFLOWER RICE
 Author: Nicole
 category: Recipes
-facebook:
+published: true
 facebook_url:
 instagram_url:
 categories:

@@ -6,7 +6,7 @@ feature-image_path: /uploads/garlicky-green-beans.jpg
 title: NEVER FAIL GARLICKY GREEN BEAN SALAD
 Author: Nicole
 category: Recipes
-facebook:
+published: true
 facebook_url:
 instagram_url:
 categories:

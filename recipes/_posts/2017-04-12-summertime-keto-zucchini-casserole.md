@@ -6,7 +6,7 @@ permalink: '/:categories/:year/:month/:day/:title/'
 title: SUMMERTIME KETO ZUCCHINI CASSEROLE
 Author: Nicole
 category: Recipes
-facebook:
+published: true
 facebook_url:
 instagram_url:
 categories:

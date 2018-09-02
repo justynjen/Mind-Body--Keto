@@ -6,7 +6,7 @@ feature-image_path: /images/muhammara.jpeg
 title: 'GETTING SAUCY WITH CHEF NICOLE: MUHAMMARA'
 Author: Nicole
 category: Recipes
-facebook:
+published: true
 facebook_url:
 instagram_url:
 categories:
