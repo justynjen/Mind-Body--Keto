@@ -5,7 +5,7 @@ feature-image_path: /uploads/oodles-of-noodles-feature.jpg
 title: Test of the Recipes
 Author: Nicole
 category: Recipes
-published: false
+published: true
 facebook_url:
 instagram_url:
 categories:
