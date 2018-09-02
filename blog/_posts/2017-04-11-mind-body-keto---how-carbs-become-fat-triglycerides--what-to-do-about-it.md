@@ -5,6 +5,7 @@ feature-image_path: /uploads/how-carbs-become-fat-.png
 title: MIND BODY KETO - HOW CARBS BECOME FAT (TRIGLYCERIDES) & WHAT TO DO ABOUT IT
 Author: Nicole
 category: Blog
+published: true
 facebook:
 facebook_url:
 instagram_url:

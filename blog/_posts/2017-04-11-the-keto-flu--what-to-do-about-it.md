@@ -5,6 +5,7 @@ feature-image_path: /uploads/the-keto-flu.png
 title: THE KETO FLU & WHAT TO DO ABOUT IT
 Author: Nicole
 category: Blog
+published: true
 facebook:
 facebook_url:
 instagram_url:

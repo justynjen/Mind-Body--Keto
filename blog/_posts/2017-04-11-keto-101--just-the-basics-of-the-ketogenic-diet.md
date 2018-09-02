@@ -5,6 +5,7 @@ feature-image_path: /uploads/what-is-keto.png
 title: Keto 101. Just the basics of the ketogenic diet!”
 Author: Nicole
 category: Blog
+published: true
 facebook:
 facebook_url:
 instagram_url:

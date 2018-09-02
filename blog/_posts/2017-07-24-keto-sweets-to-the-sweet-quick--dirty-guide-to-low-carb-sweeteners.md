@@ -5,6 +5,7 @@ feature-image_path: /uploads/spoon-2426623-1280.jpg
 title: KETO SWEETS TO THE SWEET! QUICK & DIRTY GUIDE TO LOW CARB SWEETENERS
 Author: Nicole
 category: Blog
+published: true
 facebook:
 facebook_url:
 instagram_url:

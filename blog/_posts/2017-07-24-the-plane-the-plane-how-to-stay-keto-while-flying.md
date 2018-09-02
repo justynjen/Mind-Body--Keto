@@ -5,6 +5,7 @@ feature-image_path: /uploads/flight-sky-clouds-fly-1.jpg
 title: THE PLANE! THE PLANE! HOW TO STAY KETO WHILE FLYING
 Author: Nicole
 category: Blog
+published: true
 facebook:
 facebook_url:
 instagram_url:

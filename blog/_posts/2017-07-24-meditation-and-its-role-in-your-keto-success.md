@@ -5,6 +5,7 @@ feature-image_path: /uploads/balance-110850-640.jpg
 title: MEDITATION AND ITS ROLE IN YOUR KETO SUCCESS
 Author: Nicole
 category: Blog
+published: true
 facebook:
 facebook_url:
 instagram_url:

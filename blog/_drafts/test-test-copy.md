@@ -5,6 +5,7 @@ feature-image_path: /uploads/chef-nicole.png
 title: Test Test
 Author: Nicole
 category: Blog
+published: false
 facebook:
 facebook_url:
 instagram_url:

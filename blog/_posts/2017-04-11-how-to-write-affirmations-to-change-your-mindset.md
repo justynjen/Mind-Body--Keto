@@ -5,6 +5,7 @@ feature-image_path: /uploads/affirmation-blog-1.png
 title: HOW TO WRITE AFFIRMATIONS TO CHANGE YOUR MINDSET
 Author: Nicole
 category: Blog
+published: true
 facebook:
 facebook_url:
 instagram_url:

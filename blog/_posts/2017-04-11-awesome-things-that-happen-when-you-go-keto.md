@@ -5,6 +5,7 @@ feature-image_path: /uploads/awesome-keto.png
 title: AWESOME THINGS THAT HAPPEN WHEN YOU GO KETO
 Author: Nicole
 category: Blog
+published: true
 facebook:
 facebook_url:
 instagram_url:

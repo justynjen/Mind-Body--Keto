@@ -5,6 +5,7 @@ feature-image_path: /uploads/chef-nicole.png
 title: EXTRA! EXTRA! THE NEW HOTTEST WAY OF EATING – GOING KETO WITH CHEF NICOLE
 Author: Nicole
 category: Blog
+published: true
 facebook:
 facebook_url:
 instagram_url:
