@@ -15,11 +15,10 @@ subtitle2: Or - Subscribe to get notified of releases!
 </section>
 <section class="grid padding">
   <div class="col-12">
-    <h3 class="textCenter">Leave us your name and email to be the first to know when we release new proucts and programs!</h3>
-    <form class="contact-form" method="POST" action="http://formspree.io/info@mindbodyketo.com">
-  		<input name="name" type="text" class="feedback-input" placeholder="Name" />
-    	<input name="email" type="text" class="feedback-input" placeholder="Email" />
-    	<input type="submit" value="SUBMIT"/>
+    <div class="ml-form-embed"
+  data-account="1217016:r2h2h7v8e2"
+  data-form="1032806:x5z4c0">
+</div>
   </div>
   <br/>
 </section>
@@ -27,15 +26,14 @@ subtitle2: Or - Subscribe to get notified of releases!
     <h2 class="textCenter">What's New</h2>
     <div class="grid-middle-center">
 
-       {% for post in site.posts %}
+       {% for post in site.posts limit:3 %}
           {% if post.categories contains 'blog' %}
 
        <div class="col-3_sm-6_xs-12 textCenter">
          <div class="backgroundBox">
-           <img class="shortImage" src="{{ post.feature-image_path }} " alt="">
+           <a href="{{post.url}}"><img class="shortImage" src="{{ post.feature-image_path }} " alt="{{post.title}}"></a>
            <div class="centered">
-             <h3 class="textCenter"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-             <a href="{{post.url}}" class="pinkA textCenter"> Read More</a>
+             <h3 class="textCenter styledA"><a href="{{ post.url }}">{{ post.title }}</a></h3>
            </div>
          </div>
        </div>
