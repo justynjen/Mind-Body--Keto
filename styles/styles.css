@@ -17,6 +17,11 @@ img {
     max-width : 100%;
     height: auto;
 }
+.background-img{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 p{
     font-size: .9rem;
     line-height: 1.6
