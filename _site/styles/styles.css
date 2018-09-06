@@ -315,29 +315,6 @@ button a{
   background-color: rgba(255, 255, 255, 0.84);
   text-align: center;
 }
-.parallax1 {
-
-    /* Full height */
-    height: 75vh;
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.parallax2 {
-
-    /* Full height */
-    height: 40vh;
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-}
 /*
       ***COACHING***
 */
