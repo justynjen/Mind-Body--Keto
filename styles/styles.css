@@ -45,11 +45,9 @@ h2{
 h3{
   font-size: 1.7rem;
   font-weight: 400;
-  color: #ff715b;
 }
 h4{
-  font-size: 2.5rem;
-  font-family: 'Sacramento', cursive;
+  font-size: 1.5em;
   font-weight: 400;
 }
 h5{
@@ -169,6 +167,7 @@ a{
 }
 .darkText{
   color: black;
+  padding: .9em;
 }
 hr {
     border: none;
@@ -188,30 +187,16 @@ button{
   border: none;
   color: white;
   border-radius: 3px;
-  padding: 1%;
-  font-size: 1.3rem;
+  padding: .7em;
   text-decoration: none;
   font-weight: 400;
 }
 button a{
   color: white;
+  font-size: 1rem;
   text-decoration: none;
   text-align: center;
   font-weight: lighter;
-}
-.footerButton{
-  background-color: #ff715b;
-  border: none;
-  color: white;
-  border-radius: 3px;
-  padding: 1%;
-  font-size: 1.4rem;
-  font-weight: 400;
-}
-.buttonPadding{
-  padding: 1%;
-  color: white;
-  font-size: 1.2rem;
 }
 /*
     ****DROPDOWN***
@@ -297,7 +282,6 @@ button a{
 }
 #navigation .logo a {
   font-size: 25px;
-  bottom: 0;
 }
 #navigation .menu{
   float: right;
@@ -315,10 +299,9 @@ button a{
       ***HOME***
 */
 .backgroundBox{
-  margin: 2%;
-  padding: 1.2%;
   background-color: rgba(255, 255, 255, 0.85);
   text-align: center;
+  border-radius: 3px;
 }
 .backgroundBox2{
   margin: 2%;
@@ -425,6 +408,7 @@ button a{
     background-color:white;
     padding:3% 3% 10% 3%;
     width: 380px;
+    transition: 1s;
     box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.1);
     z-index: 99999999;
 }
