@@ -1,0 +1,32 @@
+---
+layout: posts
+date: 2017-07-20 00:00:00
+permalink: '/:title'
+feature-image_path:
+title: GRILLED CHEESE AND TOMATO – KETO STYLE!
+Author: Nicole
+category: Recipes
+published: true
+facebook_url:
+instagram_url:
+categories:
+  - Recipes
+---
+
+&nbsp;
+
+Grilled cheese with tomato was always one of my fave diner bites. I don’t know how the tomato always stays juicy and cool, but it never failed to deliver the perfect crispy, cheesy, oozy, juicy, hot on the outside, cool on the inside bite.&nbsp;<br>Even without the bread, this quick little keto skillet snack delivers all the same sensations without the carbs! And it takes about 2 minutes – definitely worth a try when you have gorgeous tomatoes on hand…
+
+&nbsp;
+
+#### GRILLED CHEESE AND TOMATO – KETO STYLE!
+
+&nbsp;
+
+#### HOW TO:
+
+&nbsp;
+
+1. Warm a small nonstick skillet over medium-high heat.<br>2. Sprinkle about ½ cup pre-shredded cheese in an even layer around the pan. I used mozzarella, but cheddar would undoubtedly be DELISH!<br>3. Let it melt. It will be about 30 seconds before it is mostly melted and the underside starts to turn golden brown at the edges.<br>4. Place tomatoes on ½ to ¾ of the area.<br>5. In about 15 seconds, gently loosen the edges of the cheese from the pan with a silicone spatula. Metal spatulas will scratch your nonstick pans.<br>6. Fold the non-cheese side over the tomato side and turn off flame. ⠀<br>7. After 15 more seconds melting together, transfer to a cutting board and cool for 20 seconds or so, so that it firms up a little bit.<br>8. Cut & serve and enjoy! SO GOOD!
+
+&nbsp;
