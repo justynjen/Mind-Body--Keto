@@ -13,6 +13,8 @@ categories:
   - Recipes
 ---
 
+&nbsp;
+
 FOR FATHER’S DAY! You may have noticed over the last few days that I have deep passion for all these &nbsp;keto breakfast foods. Bagels and pancakes and eggies, OH MY! And all with a side of berries, bacon, and sausage? Can I get a HECK YEAH up in heah?
 
 These simple ricotta pancakes have 4 ingredients and came out with fluffy insides and crispy edges. I kinda want to make MORE MORE MORE, but I’m out of the ricotta, dang it! And I KNOW the iterations are endless – lemon zest, blueberries, shaved chocolate/chocolate chips.
