@@ -52,6 +52,7 @@ Serves: 1 cup
 * 2 Tbsp butter
 * 8oz sliced mushrooms
 * 1/2 cup cream
+* 1 large leek, thinly sliced
 
 &nbsp;
 
