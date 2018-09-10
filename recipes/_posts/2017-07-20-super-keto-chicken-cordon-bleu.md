@@ -17,7 +17,7 @@ categories:
 
 QUICK AND EASY AND NEXT LEVEL AWESOME!
 
-Time for some super keto Chicken Cordon Bleu using pulverized @4505meats Classic chicharrones (chilli & salt flavor) as breadcrumbs. OMFreakin’G!!&nbsp;
+Time for some super keto Chicken Cordon Bleu using pulverized [@4505meats ](https://4505chicharrones.com/)Classic chicharrones (chilli & salt flavor) as breadcrumbs. OMFreakin’G!!&nbsp;
 
 &nbsp;
 
