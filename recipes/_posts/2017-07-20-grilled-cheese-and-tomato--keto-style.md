@@ -27,6 +27,11 @@ Grilled cheese with tomato was always one of my fave diner bites. I don’t know
 
 &nbsp;
 
-1. Warm a small nonstick skillet over medium-high heat.<br>2. Sprinkle about ½ cup pre-shredded cheese in an even layer around the pan. I used mozzarella, but cheddar would undoubtedly be DELISH!<br>3. Let it melt. It will be about 30 seconds before it is mostly melted and the underside starts to turn golden brown at the edges.<br>4. Place tomatoes on ½ to ¾ of the area.<br>5. In about 15 seconds, gently loosen the edges of the cheese from the pan with a silicone spatula. Metal spatulas will scratch your nonstick pans.<br>6. Fold the non-cheese side over the tomato side and turn off flame. ⠀<br>7. After 15 more seconds melting together, transfer to a cutting board and cool for 20 seconds or so, so that it firms up a little bit.<br>8. Cut & serve and enjoy! SO GOOD!
-
-&nbsp;
+1. Warm a small nonstick skillet over medium-high heat.
+2. Sprinkle about ½ cup pre-shredded cheese in an even layer around the pan. I used mozzarella, but cheddar would undoubtedly be DELISH!
+3. Let it melt. It will be about 30 seconds before it is mostly melted and the underside starts to turn golden brown at the edges.
+4. Place tomatoes on ½ to ¾ of the area.
+5. In about 15 seconds, gently loosen the edges of the cheese from the pan with a silicone spatula. Metal spatulas will scratch your nonstick pans.
+6. Fold the non-cheese side over the tomato side and turn off flame. ⠀
+7. After 15 more seconds melting together, transfer to a cutting board and cool for 20 seconds or so, so that it firms up a little bit.
+8. Cut & serve and enjoy! SO GOOD!
