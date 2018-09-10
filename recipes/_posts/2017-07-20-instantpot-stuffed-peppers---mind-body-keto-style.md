@@ -21,7 +21,7 @@ These quick and easy Italian sausage stuffed peppers have AMAZING PERSONALITY! &
 
 &nbsp;
 
-#### Instantpot Stuffed Peppers - Mind Body Keto style
+#### INSTANTPOT STUFFED PEPPERS - MIND BODY KETO STYLE
 
 &nbsp;
 
