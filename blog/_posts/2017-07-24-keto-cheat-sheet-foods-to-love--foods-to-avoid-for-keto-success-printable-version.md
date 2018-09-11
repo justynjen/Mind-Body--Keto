@@ -14,13 +14,17 @@ categories:
   - Blog
 ---
 
-LOOK NO FURTHER!
+#### &nbsp;
+
+#### LOOK NO FURTHER!
 
 Here is what you've been looking for: a simple and beautiful cheat sheet to help you stay on track during your keto journey. You can print it and put it on your fridge door or download it and save it in your phone!
 
 Foods to LOVE and foods to AVOID to ensure keto success!&nbsp;
 
 Enjoy!
+
+&nbsp;
 
 Love,
 
