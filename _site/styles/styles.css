@@ -169,6 +169,21 @@ a{
   color: black;
   padding: .9em;
 }
+.overlay{
+  background:
+  /* top, transparent red */
+  linear-gradient(
+    rgba(0, 0, 0, 0.7),
+    rgba(0, 0, 0, 0.7)
+    ),
+    /* bottom, image */
+    url(/images/keto-food.jpg);
+
+}
+.light-text{
+  color: white;
+}
+
 hr {
     border: none;
     border-bottom: 2px solid #ff715b;
