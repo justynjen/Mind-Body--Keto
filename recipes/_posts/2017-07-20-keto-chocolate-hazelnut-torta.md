@@ -2,18 +2,18 @@
 layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
-feature-image_path:
+feature-image_path: /uploads/Keto Chocolate Hazelnut Torta.jpg
 title: KETO CHOCOLATE HAZELNUT TORTA
 Author: Nicole
 category: Recipes
-published: false
+published: true
 facebook_url:
 instagram_url:
 categories:
   - Recipes
 ---
 
-CAKE CAKE CAKE CAKE... Cake that’s so good and so well-balanced, full of protein and not too sweet, it’s ANYTIME CAKE. Breakfast cake! Lunch cake! Teatime cake! Post-workout cake! Dinner or dessert cake! And personally, I like mine with a tall glass of unsweetened @califiafarms Almond milk, just sayin’.
+CAKE CAKE CAKE CAKE… Cake that’s so good and so well-balanced, full of protein and not too sweet, it’s ANYTIME CAKE. Breakfast cake! Lunch cake! Teatime cake! Post-workout cake! Dinner or dessert cake! And personally, I like mine with a tall glass of unsweetened @califiafarms Almond milk, just sayin’.
 
 I created this keto chocolate & hazelnut torta (Italian for cake) to bring to a dinner party hosted by my favorite Italiana last night. I've said it before, but when an Italian invites you to a party, ALWAYS SAY YES. I can pretty much assure you that the food, wine, and company will ALWAYS be amazing!
 
@@ -21,27 +21,13 @@ Anyhow, it came out fluffy, moist, and only lightly sweet. Perfect for a very si
 
 &nbsp;
 
-#### KETO CHOCOLATE HAZELNUT TORTA
+### KETO CHOCOLATE HAZELNUT TORTA
 
-&nbsp;
-
-##### PREP TIME
-
-&nbsp;mins
-
-&nbsp;
-
-##### TOTAL TIME
-
-&nbsp;mins
-
-&nbsp;
+### &nbsp;
 
 Author: Nicole Poirier
 
 Recipe type: dessert
-
-Cuisine: European, American, Californian, Vegetarian
 
 Serves: 16 regular or 8 large slices
 
