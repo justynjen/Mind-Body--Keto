@@ -2,11 +2,11 @@
 layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
-feature-image_path:
+feature-image_path: /uploads/Keto Coconut Shrimp.jpg
 title: CRISPY KETO COCONUT SHRIMP
 Author: Nicole
 category: Recipes
-published: false
+published: true
 facebook_url:
 instagram_url:
 categories:
@@ -19,31 +19,11 @@ So delicious, quick, and easy with only five ingredients in the recipe, YOU NEED
 
 &nbsp;
 
-#### CRISPY KETO COCONUT SHRIMP
+### CRISPY KETO COCONUT SHRIMP
 
 &nbsp;
 
-##### PREP TIME
-
-&nbsp;mins
-
-&nbsp;
-
-##### TOTAL TIME
-
-&nbsp;mins
-
-&nbsp;
-
-Author: Nicole Poirier
-
-Recipe type: sauce, dip, condiment
-
-Cuisine: European, American, Californian, Vegetarian
-
-Serves: 2
-
-&nbsp;
+##### &nbsp;
 
 ### INGREDIENTS
 
