@@ -2,30 +2,28 @@
 layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
-feature-image_path:
+feature-image_path: /uploads/Keto Grilled Cheese & Tomato.jpg
 title: GRILLED CHEESE AND TOMATO – KETO STYLE!
 Author: Nicole
 category: Recipes
-published: false
+published: true
 facebook_url:
 instagram_url:
 categories:
   - Recipes
 ---
 
-&nbsp;
+Grilled cheese with tomato was always one of my fave diner bites. I don’t know how the tomato always stays juicy and cool, but it never failed to deliver the perfect crispy, cheesy, oozy, juicy, hot on the outside, cool on the inside bite. <br>Even without the bread, this quick little keto skillet snack delivers all the same sensations without the carbs! And it takes about 2 minutes – definitely worth a try when you have gorgeous tomatoes on hand…
 
-Grilled cheese with tomato was always one of my fave diner bites. I don’t know how the tomato always stays juicy and cool, but it never failed to deliver the perfect crispy, cheesy, oozy, juicy, hot on the outside, cool on the inside bite.&nbsp;<br>Even without the bread, this quick little keto skillet snack delivers all the same sensations without the carbs! And it takes about 2 minutes – definitely worth a try when you have gorgeous tomatoes on hand…
-
-&nbsp;
+ 
 
 #### GRILLED CHEESE AND TOMATO – KETO STYLE!
 
-&nbsp;
+ 
 
 #### HOW TO:
 
-&nbsp;
+ 
 
 1. Warm a small nonstick skillet over medium-high heat.
 2. Sprinkle about ½ cup pre-shredded cheese in an even layer around the pan. I used mozzarella, but cheddar would undoubtedly be DELISH!
