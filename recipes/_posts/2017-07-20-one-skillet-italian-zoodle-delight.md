@@ -2,11 +2,11 @@
 layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
-feature-image_path:
+feature-image_path: /uploads/Keto One Skillet Broccoli.jpg
 title: ONE-SKILLET ITALIAN ZOODLE DELIGHT
 Author: Nicole
 category: Recipes
-published: false
+published: true
 facebook_url:
 instagram_url:
 categories:
@@ -21,29 +21,11 @@ Enter this super summery One Skillet Sausage, Broccoli & Zoodle number, and your
 
 &nbsp;
 
-#### ONE-SKILLET ITALIAN SAUSAGE, BROCCOLI AND SUMMER SQUASH ZOODLE DELIGHT
+### ONE-SKILLET ITALIAN SAUSAGE, BROCCOLI AND SUMMER SQUASH ZOODLE DELIGHT
 
 &nbsp;
 
-##### PREP TIME
-
-mins
-
-&nbsp;
-
-##### TOTAL TIME
-
-mins
-
-Author: Nicole Poirier
-
-Recipe type:&nbsp;
-
-Cuisine:&nbsp;
-
-Serves: 2-4
-
-&nbsp;
+##### &nbsp;
 
 ### INGREDIENTS
 
