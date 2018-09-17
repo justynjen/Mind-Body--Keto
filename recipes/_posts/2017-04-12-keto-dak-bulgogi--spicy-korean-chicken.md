@@ -1,12 +1,12 @@
 ---
 layout: posts
 date: 2017-04-12 00:00:00
-feature-image_path:
+feature-image_path: /uploads/Keto Chicken Bulgogi.jpg
 permalink: '/:categories/:year/:month/:day/:title/'
 title: Keto Dak Bulgogi – Spicy Korean Chicken
 Author: Nicole
 category: Recipes
-published: false
+published: true
 facebook_url:
 instagram_url:
 categories:
@@ -15,13 +15,15 @@ categories:
 
 This is KETO KOREAN RIDICULICIOUSNESS!
 
-Currently, I’m in Rhode Island and staying with my cousin and her Korean husband, whose family was really the first to introduce me to legit Korean food. I LOVE LOVE LOVE the blend of sweet and spicy, the freshness, the soul-warming awesomeness – PROBLEM IS,  it’s not super keto or gluten free in its original form.
+Currently, I’m in Rhode Island and staying with my cousin and her Korean husband, whose family was really the first to introduce me to legit Korean food. I LOVE LOVE LOVE the blend of sweet and spicy, the freshness, the soul-warming awesomeness – PROBLEM IS, &nbsp;it’s not super keto or gluten free in its original form.
 
 BUT I NEED IT IN MY LIFE!! So, of course I’m taking the opportunity to test out the recipes I’ve been working on with family who can let me know if it tastes authentic. And GUESS WHAT, HONEYBUNS!?!? THEY’RE PASSING WITH DELICIOUS FLYING COLORS!
 
-### Keto Dak Bulgogi – Spicy Korean Chicken
+&nbsp;
 
-#####  
+### KETO DAK BULGOGI – SPICY KOREAN CHICKEN
+
+##### &nbsp;
 
 ##### Serves 4
 
@@ -42,11 +44,11 @@ BUT I NEED IT IN MY LIFE!! So, of course I’m taking the opportunity to test ou
 * Sesame seeds for garnish
 * Avocado or another vegetable oil for cooking
 
- 
+&nbsp;
 
 ### INSTRUCTIONS
 
- 
+&nbsp;
 
 1. Slice chicken as thinly as you possibly can. PRO-TIP: it’s easier to do this if the chicken is semi-frozen. Place it in a non-reactive bowl and set aside.
 
