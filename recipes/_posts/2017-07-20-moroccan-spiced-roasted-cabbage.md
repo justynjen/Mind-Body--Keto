@@ -2,11 +2,11 @@
 layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
-feature-image_path:
+feature-image_path: /uploads/Keto Moroccan Spiced Cabbage.jpg
 title: MOROCCAN SPICED ROASTED CABBAGE
 Author: Nicole
 category: Recipes
-published: false
+published: true
 facebook_url:
 instagram_url:
 categories:
@@ -17,31 +17,7 @@ SNEAK ATTACK OF DELICIOUSNESS! I made this super simple Moroccan Spiced Roasted 
 
 &nbsp;
 
-#### MOROCCAN SPICED ROASTED CABBAGE
-
-&nbsp;
-
-##### PREP TIME
-
-mins
-
-&nbsp;
-
-##### TOTAL TIME
-
-mins
-
-&nbsp;
-
-&nbsp;
-
-Author: Nicole Poirier
-
-Recipe type:&nbsp;
-
-Cuisine: European, American, Californian, Vegetarian
-
-Serves: 8-12
+### MOROCCAN SPICED ROASTED CABBAGE
 
 &nbsp;
 
