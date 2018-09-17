@@ -2,48 +2,28 @@
 layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
-feature-image_path:
+feature-image_path: /uploads/Mind Body Keto Meatballs.jpg
 title: AMAZING MIND BODY KETO MEATBALLS
 Author: Nicole
 category: Recipes
-published: false
+published: true
 facebook_url:
 instagram_url:
 categories:
   - Recipes
 ---
 
-Are you ready to do a happy dance? Because you're about to read the easiest and most delicious keto meatball recipe ever. They're fluffy! They're juicy! They're Paleo! They hold together without feeling as dense as rocks! Can I getta WOOT WOOT?! All that jazz and they are a mere 1.9g carbs per serving of 5 meatballs, with 21g of fat and 20g of protein. HOLLAAAAAAA...
+Are you ready to do a happy dance? Because you're about to read the easiest and most delicious keto meatball recipe ever. They're fluffy! They're juicy! They're Paleo! They hold together without feeling as dense as rocks! Can I getta WOOT WOOT?! All that jazz and they are a mere 1.9g carbs per serving of 5 meatballs, with 21g of fat and 20g of protein. HOLLAAAAAAA…
 
 Add 1/4 c of no-sugar-added marinara sauce (5g net carbs) and 100g zucchini noodles (2g net carbs) and you have a super filling, #nutritious meal for under 10 carbs. Did I mention ridiculously yummy, too? SPAGHETTI NIGHT IS BACK!
 
 &nbsp;
 
-#### AMAZING MIND BODY KETO MEATBALLS
+### AMAZING MIND BODY KETO MEATBALLS
 
 &nbsp;
 
-##### PREP TIME
-
-&nbsp;mins
-
-&nbsp;
-
-##### TOTAL TIME
-
-&nbsp;mins
-
-&nbsp;
-
-Author: Nicole Poirier
-
-Recipe type:&nbsp;
-
-Cuisine: European, American, Californian, Vegetarian
-
-Serves: 4 4-5 meatball servings
-
-&nbsp;
+##### &nbsp;
 
 ### INGREDIENTS
 
