@@ -2,7 +2,7 @@
 layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
-feature-image_path:
+feature-image_path: /uploads/Instant Pot Stuffed Peppers.jpg
 title: Instantpot Stuffed Peppers - Mind Body Keto style
 Author: Nicole
 category: Recipes
@@ -21,29 +21,7 @@ These quick and easy Italian sausage stuffed peppers have AMAZING PERSONALITY! &
 
 &nbsp;
 
-#### INSTANTPOT STUFFED PEPPERS - MIND BODY KETO STYLE
-
-&nbsp;
-
-##### PREP TIME
-
-&nbsp;mins
-
-&nbsp;
-
-##### TOTAL TIME
-
-&nbsp;mins
-
-&nbsp;
-
-Author: Nicole Poirier
-
-Recipe type:&nbsp;
-
-Cuisine:&nbsp;
-
-Serves:
+### INSTANTPOT STUFFED PEPPERS - MIND BODY KETO STYLE
 
 &nbsp;
 
