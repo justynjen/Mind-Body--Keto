@@ -2,36 +2,24 @@
 layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
-feature-image_path:
+feature-image_path: /uploads/Keto Spicy Cabbage Salad.jpg
 title: KETO CRUNCHY SPICY CABBAGE SALAD WITH COCONUT DRESSING
 Author: Nicole
 category: Recipes
-published: false
+published: true
 facebook_url:
 instagram_url:
 categories:
   - Recipes
 ---
 
-SALAD SO GOOD, IT MIGHT MAKE YOU CRY... It's crunchy, it's spicy, it's salty, IT'S GOT PORK RINDS! This is my favorite keto salad to date, and I literally dreamed about it last night since I am on the egg fast train. I LOVE veggies, and texture, and tropical-tasting, spiced up, coconut drizzled anything.
+SALAD SO GOOD, IT MIGHT MAKE YOU CRY… It's crunchy, it's spicy, it's salty, IT'S GOT PORK RINDS! This is my favorite keto salad to date, and I literally dreamed about it last night since I am on the egg fast train. I LOVE veggies, and texture, and tropical-tasting, spiced up, coconut drizzled anything.
 
 This salad comes together really quickly and one cabbage is enough to feed about 20 people. It's CRAZY! 1/8 of this recipe has 25g fat, 9 net carbs, and 30g protein. Happy dance, much?
 
 &nbsp;
 
 #### KETO CRUNCHY SPICY CABBAGE SALAD WITH COCONUT DRESSING&nbsp;
-
-&nbsp;
-
-##### PREP TIME
-
-mins
-
-##### &nbsp;
-
-##### TOTAL TIME
-
-mins
 
 &nbsp;
 
