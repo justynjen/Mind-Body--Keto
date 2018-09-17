@@ -2,11 +2,11 @@
 layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
-feature-image_path:
+feature-image_path: /uploads/Keto Buttery Smashed Summer Squash.jpg
 title: BUTTERY SMASHED SUMMER SQUASH
 Author: Nicole
 category: Recipes
-published: false
+published: true
 facebook_url:
 instagram_url:
 categories:
@@ -15,37 +15,17 @@ categories:
 
 &nbsp;
 
-IT’S FRIDAY - GET SMASHED! Smashed Summer squash, I mean, obvs... The gettin’ is SO GOOD RIGHT NOW at the farmer’s market. So dang good, I have been way overbuying, but I don’t know if you can REALLY overbuy beautiful, bright yellow summer squash when you can use THIS recipe and freeze it for yummy reminders of summertime whenever!
+IT’S FRIDAY - GET SMASHED! Smashed Summer squash, I mean, obvs… The gettin’ is SO GOOD RIGHT NOW at the farmer’s market. So dang good, I have been way overbuying, but I don’t know if you can REALLY overbuy beautiful, bright yellow summer squash when you can use THIS recipe and freeze it for yummy reminders of summertime whenever!
 
 I love trading in my cauliflower mash for mashed yellow squash. Not only is it absolutely delicious, but perfect for low carb, paleo and keto eating with only 2.5 net grams of carbs per serving & chock full of beta carotene, lutein, and vitamin C. Being non-starchy, this also cooks SUPER fast, bringing an amazing side dish to your table in under 10 minutes.
 
-Yes - there is a higher water content; no, the texture is not the same as potatoes or cauliflower, but TRUST ME - you're gonna love it...
+Yes - there is a higher water content; no, the texture is not the same as potatoes or cauliflower, but TRUST ME - you're gonna love it…
 
 &nbsp;
 
-#### BUTTERY SMASHED SUMMER SQUASH
+### BUTTERY SMASHED SUMMER SQUASH
 
-&nbsp;
-
-##### PREP TIME
-
-5 mins
-
-&nbsp;
-
-##### TOTAL TIME
-
-5 mins
-
-Author: Nicole Poirier
-
-Recipe type:&nbsp;
-
-Cuisine:&nbsp;
-
-Serves: 4 1/2 Cups&nbsp;
-
-&nbsp;
+### &nbsp;
 
 ### INGREDIENTS
 
