@@ -3,7 +3,7 @@ layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
 feature-image_path: /uploads/Keto Coconut Shrimp.jpg
-title: CRISPY KETO COCONUT SHRIMP
+title: Crispy Keto Coconut Shrimp
 Author: Nicole
 category: Recipes
 published: true
@@ -15,19 +15,19 @@ categories:
 
 Feeling just a little tropical today and craving the flavors of warmer latitudes and far-off lands, so I decided to bring the tropics TO me via the kitchen! All those years cooking my way through the Caribbean definitely gave me a taste for coconut shrimp, and don't you think it's about time for a crispy keto version?!? I tested 4 versions of these before getting 'em just right, so I know you're going to be licking your fingers, whether you dip them in cilantro-walnut pesto or NOT.
 
-So delicious, quick, and easy with only five ingredients in the recipe, YOU NEED MORE ISLAND TIME IN YOUR LIFE!&nbsp;
+So delicious, quick, and easy with only five ingredients in the recipe, YOU NEED MORE ISLAND TIME IN YOUR LIFE! 
 
-&nbsp;
+ 
 
 ### CRISPY KETO COCONUT SHRIMP
 
-&nbsp;
+ 
 
-##### &nbsp;
+#####  
 
 ### INGREDIENTS
 
-&nbsp;
+ 
 
 * 8oz Shrimp, I used 21-25 size
 * 1/4 c/15g desiccated UNSWEETENED coconut
@@ -37,11 +37,11 @@ So delicious, quick, and easy with only five ingredients in the recipe, YOU NEED
 * 1 egg
 * 2-4 Tablespoons coconut oil (for frying)
 
-&nbsp;
+ 
 
 ### INSTRUCTIONS
 
-&nbsp;
+ 
 
 1. Pat shrimp dry with paper towel.
 2. In a small bowl, crack the egg and whisk until uniform.
