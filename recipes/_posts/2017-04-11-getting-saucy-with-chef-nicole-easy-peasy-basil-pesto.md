@@ -3,7 +3,7 @@ layout: recipes
 date: 2017-04-11 00:00:00
 permalink: '/:title/'
 feature-image_path: /uploads/easy-basil-pesto.jpeg
-title: 'GETTING SAUCY WITH CHEF NICOLE: EASY PEASY BASIL PESTO'
+title: 'Getting saucy with Chef Nicole: Easy Peasy Basil Pesto'
 Author: Nicole
 category: Recipes
 published: true
