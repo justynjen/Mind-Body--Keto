@@ -3,7 +3,7 @@ layout: posts
 date: 2017-04-12 00:00:00
 feature-image_path: /images/chicken-salad.jpg
 permalink: '/:categories/:year/:month/:day/:title/'
-title: MBK MOM’S CHICKEN SALAD
+title: MBK Mom's Chicken Salad
 Author: Nicole
 category: Recipes
 published: true
@@ -19,35 +19,35 @@ Lately, I’ve been craving the tastes of home. You know what I’m talking abou
 
 This chicken salad comes together super fast – and it’s so delicious, you may gobble it all up even faster!
 
-&nbsp;
+ 
 
 One of my FAVORITE lazy Saturday no-cook lunches had to be my Mom’s Chicken Salad. Super-simple, only four ingredients plus seasoning, but SO DANG GOOD! Now that I’m all Keto all the time, I appreciate it even MORE because of the healthy combination of protein, fats, and flavor.
 
-&nbsp;
+ 
 
 Now, you can cook up chicken breast individually for this, but I tend to make this from store-bought rotisserie chicken or some other kind of leftover chicken. It’s beyond easy!
 
-&nbsp;
+ 
 
 ### MBK MOM’S CHICKEN SALAD
 
-&nbsp;
+ 
 
 ##### PREP TIME
 
 5 mins
 
-### &nbsp;
+###  
 
 ##### TOTAL TIME
 
 5 mins
 
-&nbsp;
+ 
 
 This is the perfect chicken salad to stuff your sandwiches, avocados, lettuce leaves, and your FACE with. With only four ingredients apart from seasoning, it also comes together in a flash, especially if you use leftover rotisserie chicken like I do!
 
-&nbsp;
+ 
 
 Author: Nicole Poirier
 
@@ -57,11 +57,11 @@ Cuisine: Keto, American
 
 Serves: 2 – 3 servings
 
-### &nbsp;
+###  
 
 ### INGREDIENTS
 
-&nbsp;
+ 
 
 * 1 cooked and cooled chicken breast, around 1 pound/450 grams
 * ¼ c + 1 Tbsp sugar-free mayonnaise
@@ -69,11 +69,11 @@ Serves: 2 – 3 servings
 * 2 Tbsp minced celery (about half of an outside stalk)
 * Salt & Pepper to taste
 
-### &nbsp;
+###  
 
 ### INSTRUCTIONS
 
-&nbsp;
+ 
 
 1. Finely chop or shred the chicken breast and place in a small mixing bowl.
 2. Add the mayonnaise, celery, and onion and mix well.
