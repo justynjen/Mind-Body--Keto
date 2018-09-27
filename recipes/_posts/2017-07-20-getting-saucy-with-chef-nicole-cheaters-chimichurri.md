@@ -3,7 +3,7 @@ layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
 feature-image_path: /images/cheaters-chimchurri.jpeg
-title: 'GETTING SAUCY WITH CHEF NICOLE: CHEATER’S CHIMICHURRI'
+title: 'Getting Saucy With Chef Nicole: Cheater''s Chimichurri'
 Author: Nicole
 category: Recipes
 published: true
@@ -15,35 +15,35 @@ categories:
 
 ![](/images/cheaters-chimchurri.jpeg)
 
-&nbsp;
+ 
 
 I call this cheater’s chimichurri because we skip the hand-chopping usually involved. We instead use a blender or food processor to whip it up, and the flavor and texture results are fantastic!
 
-&nbsp;
+ 
 
 Chimichurri keeps in the fridge for 1 – 2 weeks and pairs well with just about everything, from simple chicken breasts to steak to shrimp.
 
-&nbsp;
+ 
 
 ### CHEATER’S CHIMICHURRI
 
-&nbsp;
+ 
 
 ##### PREP TIME
 
 5 mins
 
-&nbsp;
+ 
 
 ##### TOTAL TIME
 
 5 mins
 
-&nbsp;
+ 
 
 Traditional chimichurri requires all the same ingredients – but finely chopped by hand. Make it easier by using a blender or food processor.
 
-&nbsp;
+ 
 
 Author: Nicole Poirier
 
@@ -53,11 +53,11 @@ Cuisine: Californian
 
 Serves: 1.5 cups
 
-&nbsp;
+ 
 
 ### INGREDIENTS
 
-&nbsp;
+ 
 
 * 1 c packed parsley
 * 1 c cilantro leaves
@@ -72,10 +72,10 @@ Serves: 1.5 cups
 * Optional additions: dill, basil, ½ tsp cumin
 * For preserving – 2 Tablespoons additional olive oil
 
-&nbsp;
+ 
 
 ### INSTRUCTIONS
 
-&nbsp;
+ 
 
 1. Combine everything up to additional olive oil in a blender and puree until smooth. Transfer to a small jar with lid and top with 2 additional tablespoons olive oil. Keeps in refrigerator for 1 – 2 weeks.
