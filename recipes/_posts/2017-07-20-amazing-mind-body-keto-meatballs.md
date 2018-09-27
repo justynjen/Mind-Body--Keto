@@ -3,7 +3,7 @@ layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
 feature-image_path: /uploads/Mind Body Keto Meatballs.jpg
-title: AMAZING MIND BODY KETO MEATBALLS
+title: Amazing Mind Body Keto Meatballs
 Author: Nicole
 category: Recipes
 published: true
@@ -17,17 +17,17 @@ Are you ready to do a happy dance? Because you're about to read the easiest and 
 
 Add 1/4 c of no-sugar-added marinara sauce (5g net carbs) and 100g zucchini noodles (2g net carbs) and you have a super filling, #nutritious meal for under 10 carbs. Did I mention ridiculously yummy, too? SPAGHETTI NIGHT IS BACK!
 
-&nbsp;
+ 
 
 ### AMAZING MIND BODY KETO MEATBALLS
 
-&nbsp;
+ 
 
-##### &nbsp;
+#####  
 
 ### INGREDIENTS
 
-&nbsp;
+ 
 
 * 1/2 lb 85% lean ground beef (I use organic AND grass fed)
 * 1/2 lb ground pork (again, organic where possible)
@@ -38,13 +38,13 @@ Add 1/4 c of no-sugar-added marinara sauce (5g net carbs) and 100g zucchini nood
 * 1 Tablespoon Omnivore Sicilia or tomato paste
 * 1 egg
 
-&nbsp;
+ 
 
 ### INSTRUCTIONS
 
-&nbsp;
+ 
 
-1. Preheat oven to 375&ordm;F.
+1. Preheat oven to 375ºF.
 2. Combine pork rinds, almond flour, dried herbs, and salt in a food processor and pulse until a homogenous "breadcrumb" mixture is achieved.
 3. Transfer to mixing bowl with beef, pork, egg, and tomato paste/Sicilia. NOTE: you can use one type of meat here, or more types - just keep the total to 1lb. Mix well until there are no dry pockets.
 4. Using a 1oz portion scoop or simply a tablespoon, divide the meat into ~20 pieces and place on parchment paper lined tray. Roll between your hands to form smooth balls.
