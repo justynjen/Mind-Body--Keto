@@ -3,7 +3,7 @@ layout: recipes
 date: 2017-04-11 00:00:00
 permalink: '/:title/'
 feature-image_path: /uploads/mex-break-casserole-bite.jpg
-title: EASY MEXICAN-INSPIRED BREAKFAST CASSEROLE
+title: Easy Mexican Inspired Breakfast Casserole
 Author: Nicole
 category: Recipes
 published: true
