@@ -3,7 +3,7 @@ layout: posts
 date: 2017-04-11 00:00:00
 permalink: '/:title/'
 feature-image_path: /uploads/cauliflower-rice.jpg
-title: MEXICAN CAULIFLOWER RICE
+title: Mexican Cauliflower Rice
 Author: Nicole
 category: Recipes
 published: true
