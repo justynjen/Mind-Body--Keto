@@ -3,7 +3,7 @@ layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
 feature-image_path: /images/aioli.jpeg
-title: 'GETTING SAUCY WITH CHEF NICOLE: CHEATER’S AIOLI'
+title: 'Getting Saucy With Chef Nicole: Cheater''s Aioli'
 Author: Nicole
 category: Recipes
 published: true
