@@ -3,7 +3,7 @@ layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
 feature-image_path: /uploads/Keto Moroccan Spiced Cabbage.jpg
-title: MOROCCAN SPICED ROASTED CABBAGE
+title: Moroccan Spiced Roasted Cabbage
 Author: Nicole
 category: Recipes
 published: true
@@ -15,26 +15,26 @@ categories:
 
 SNEAK ATTACK OF DELICIOUSNESS! I made this super simple Moroccan Spiced Roasted Cabbage for another client dinner the other night, and the guests were fighting over the crumbs. FIGHTING. Eleven-year-olds and fifty-somethings alike! This is not an exaggeration - this is an endorsement for a seriously tasty plant based keto and paleo side dish perfectly appropriate for any day!
 
-&nbsp;
+ 
 
 ### MOROCCAN SPICED ROASTED CABBAGE
 
-&nbsp;
+ 
 
 ### INGREDIENTS
 
-&nbsp;
+ 
 
 * 2 1/2 lb cabbage
 * 4 Tablespoons olive oil
 * 1 Tablespoon Ras el Hanout Moroccan seasoning
 * 2 teaspoons sea salt
 
-&nbsp;
+ 
 
 ### INSTRUCTIONS
 
-&nbsp;
+ 
 
 1. Preheat oven to 350F. Line a baking tray with parchment paper.
 2. Cut cabbage into wedges that are about 1" at their thickest, on the outside of the wedge.
