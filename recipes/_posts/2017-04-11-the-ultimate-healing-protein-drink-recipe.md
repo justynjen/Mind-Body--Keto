@@ -3,7 +3,7 @@ layout: posts
 date: 2017-04-11 00:00:00
 permalink: '/:title/'
 feature-image_path: /images/ultimate-protien.jpg
-title: THE ULTIMATE HEALING PROTEIN DRINK RECIPE
+title: The Ultimate Healing Protein Drink Recipe
 Author: Nicole
 category: Recipes
 published: true
@@ -17,7 +17,7 @@ categories:
 
 <br>Well, YOU’RE IN LUCK, FRIENDS! I wanted all of these things, too, and created a blend of whole food (aka real and simple) ingredients to mix with water daily to make the most healing protein drink ever. And I want to share the secrets with YOU!
 
-&nbsp;
+ 
 
 ### HOW WAS THIS HEALING PROTEIN DRINK CREATED?
 
@@ -29,28 +29,28 @@ categories:
 
 <br>Three months later, after sharing my recipe with a few Paleo friends who were looking for their own nutritional supplement while pursuing a High Fat Low Carb (aka Keto) regime, not only did I realize that others were interested in my formula, but my health was overall better, AND that I was receiving more compliments than ever on my hair and skin.
 
-&nbsp;
+ 
 
 ### WHAT MAKES IT “HEALING”?
 
-&nbsp;
+ 
 
 <br>Multiple studies demonstrate that each of the ingredients demonstrate healing properties within the body.
 
-&nbsp;
+ 
 
 * Collagen hydrolysate is known to boost hair, skin, nail, and gut strength and repair.
 * Probiotics are touted for digestive-system health, their contribution to a stronger immune system, helping combat obesity, and even preventing urinary tract infections.
 * The dark leafy greens that make up the vegetable infusion supply a whole host of vitamins and minerals that promote a more youthful appearance, help lower cholesterol, contribute to vision health, boost bone density, and more.
 * Altogether, it feeds your microbiome, or healthy “gut flora”, which is the seat of the immune system and you may have guessed is a major player when it comes to balancing hormones, especially estrogen!
 
-&nbsp;
+ 
 
 ### WANNA KNOW THE FACTS?!
 
 <br>This magical little recipe for my healing protein drink is:
 
-&nbsp;
+ 
 
 1. 25 g whole food based protein
 2. &lt;3g net carbs
@@ -68,29 +68,29 @@ categories:
 
 <br>I designed it, as I mentioned, to serve my own needs, but found that it was perfect for the needs of so many others. There is not a person among us who can’t stand even better micro biome health, particularly those suffering from digestive, autoimmune, or hormone-related disorders. This healing protein drink is particularly great at nurturing that natural flora with fiber and probiotics WHILE encouraging leaky gut repair with collagen. The protein, in conjunction with the rest of our healthy eating plan, ensures that our own muscle mass is preserved and our appetites are satisfied.
 
-&nbsp;
+ 
 
 ### WELL, GIVE ME THE RECIPE ALREADY!
 
 <br>For somebody who hates long-winded posts before a recipe is shared, I sure am getting good at ’em! I mention Amazing Grass in the recipe – the chocolate infusion is the one I personally like to use, and it already has probiotics mixed in. There are plenty of other brands and flavors out there, though. Feel free to use what is available to you, but I CAN confirm that the Chocolate Infusion is yummy!
 
-&nbsp;
+ 
 
 ### THE ULTIMATE HEALING PROTEIN DRINK RECIPE
 
-&nbsp;
+ 
 
 ##### PREP TIME
 
 2 mins
 
-##### &nbsp;
+#####  
 
 ##### TOTAL TIME
 
 2 mins
 
-&nbsp;
+ 
 
 Do your whole body a favor and make yourself this drink! With 2 – 3 servings of vegetables, 28g of protein, less than 3 carbs, and full of healthifying collagen to give you faster growing hair & nails AND glowing skin, you will wish you’d been drinking it forever. And your friends will all be wondering what your secret is!
 
@@ -102,11 +102,11 @@ Cuisine: Healthy, Healing, Californian
 
 Serves: 1 serving
 
-&nbsp;
+ 
 
 ### INGREDIENTS
 
-&nbsp;
+ 
 
 * ⅓ cup / 30g [egg white protein powder](https://www.amazon.com/gp/product/B01MYVBT00/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B01MYVBT00&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=e8a8936770300b412da67efaffcb5240)
 * 2 Tablespoons / 12 g [collagen hydrolysate](https://www.amazon.com/gp/product/B01A1G47L0/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B01A1G47L0&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=589a1248a054b93319bce900ba28efff)
@@ -115,17 +115,17 @@ Serves: 1 serving
 * 12 – 16 oz / 350 – 475 ml water or unsweetened nut milk
 * Additional equipment: shaker cup or blender
 
-&nbsp;
+ 
 
 ### INSTRUCTIONS
 
-&nbsp;
+ 
 
 1. Combine all ingredients in shaker cup or blender.
 2. Cover, shake or blend until well combined with no lumps or dry-looking bits.
 3. Transfer to a serving glass and enjoy! Or enjoy straight from your mixing vessel!
 
-&nbsp;
+ 
 
 ### BONUS TIP: YOU CAN MAKE IT EVEN MORE KETO!
 
@@ -133,7 +133,7 @@ Serves: 1 serving
 
 Remember, good fats are very good for creating a happy belly and hormonal system. So eat that avocado! Enjoy that coconut milk! And add MCT oil whenever you need a boost.
 
-&nbsp;
+ 
 
 ### A SPECIAL REQUEST:
 
