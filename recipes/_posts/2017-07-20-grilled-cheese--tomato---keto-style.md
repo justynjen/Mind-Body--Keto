@@ -3,7 +3,7 @@ layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
 feature-image_path: /uploads/Keto Grilled Cheese & Tomato.jpg
-title: GRILLED CHEESE AND TOMATO – KETO STYLE!
+title: Grilled Cheese & Tomato - Keto Style!
 Author: Nicole
 category: Recipes
 published: true
