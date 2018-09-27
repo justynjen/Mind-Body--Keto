@@ -3,7 +3,7 @@ layout: posts
 date: 2017-04-11 00:00:00
 permalink: '/:title/'
 feature-image_path: /uploads/top-down-hazelnut-waffles.jpg
-title: KETO HAZELNUT LACE WAFFLES
+title: Keto Hazelnut Lace Waffles
 Author: Nicole
 category: Recipes
 published: true
@@ -15,47 +15,47 @@ categories:
 
 Last night, I catered and attended a rather impromptu little dinner party for a treasured friend and client. I feel so fortunate that I get to work with people I adore, and that oftentimes, I can surprise them with a menu that I know that they will love based on my past interactions. It’s the BEST; as a chef, I feel like \*I\* am truly involved in the hosting of the party. And I often come up with menus that I would serve at my own dinner parties! That allows me to put even more of my heart, presence, and creativity into the meal – a hugely important factor. These hazelnut lace waffles came together with all of that and more!
 
-&nbsp;
+ 
 
 ![](/uploads/hazelnut-lace-waffles-creme-fraiche-jam-feature-pic1-1.png){: srcset="/uploads/hazelnut-lace-waffles-creme-fraiche-jam-feature-pic1-1.png 180w, /uploads/hazelnut-lace-waffles-creme-fraiche-jam-feature-pic1-1@2x.png 360w"}
 
 Trust me on this – you want these Keto Hazelnut Lace Waffles in your face ASAP!
 
-&nbsp;
+ 
 
 This time around, I had the opportunity to test out a starter recipe about which I’ve been dreaming for some time: Savory Keto Hazelnut Lace Waffles with Creme Fraiche and Caramelized Onion- Roasted Beet Jam over Shaved Fennel Salad. It was a HIT!
 
-&nbsp;
+ 
 
 The waffles themselves, which are a riff on this Almond Flour Waffle recipe from the amazing website Low Carb Yum, are both Keto and Paleo. They also happen to be light, lacy, crispy, and SCRUMPDIDDLYUMPTIOUS! With only five ingredients, they are also super easy to make. You could serve these with a sweet syrup, melted butter, or even topped with bacon and a poached egg. However you decide to do it, any tastebuds treated are going to be impressed!
 
-&nbsp;
+ 
 
 ### KETO HAZELNUT LACE WAFFLES
 
-&nbsp;
+ 
 
 ##### PREP TIME
 
 5 mins
 
-&nbsp;
+ 
 
 ##### COOK TIME
 
 15 mins
 
-&nbsp;
+ 
 
 ##### TOTAL TIME
 
 20 mins
 
-&nbsp;
+ 
 
 Light and lacy yet protein packed and satisfying, these crispy-fluffy waffles are designed to amaze. Try them with either sweet or savory toppings, an extra egg or low-carb chocolate sauce. You will not be disappointed, and neither will your guests!
 
-&nbsp;
+ 
 
 Author: Nicole Poirier
 
@@ -65,11 +65,11 @@ Cuisine: Keto, Paleo, Californian
 
 Serves: 6 servings
 
-&nbsp;
+ 
 
 ### INGREDIENTS
 
-&nbsp;
+ 
 
 * 1 cup [almond](https://www.amazon.com/gp/product/B00IDLV6OM/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00IDLV6OM&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=c617e745b2b8835d050246ca1ce4d529) or [hazelnut](https://www.amazon.com/gp/product/B00MFC5EUC/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00MFC5EUC&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=559b2e0270dd1280d43aec831d0bba70) flour
 * 1 cup unsweetened almond milk
@@ -79,11 +79,11 @@ Serves: 6 servings
 * Pinch [Himalayan salt](https://www.amazon.com/gp/product/B071GRSDBN/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B071GRSDBN&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=32a5179deaacca60e5d74807642c3992)
 * Additional equipment: waffle iron
 
-&nbsp;
+ 
 
 ### INSTRUCTIONS
 
-&nbsp;
+ 
 
 1. Heat up your waffle iron.
 2. Place your dry ingredients into a medium mixing bowl and whisk to combine well.
@@ -94,19 +94,19 @@ Serves: 6 servings
 7. Repeat process until all of the batter is cooked.
 8. Garnish as desired and enjoy!
 
-&nbsp;
+ 
 
 ### NUTRITION INFORMATION
 
-&nbsp;
+ 
 
 Serving size: 1 waffle Calories: 189.5 Fat: 16.9 Saturated fat: 2. Unsaturated fat: 5.6 Trans fat: 0 Carbohydrates: 4.6 Sugar: .9 Sodium: 106.1 Fiber: 2.2 Protein: 7.3Cholesterol: 93.
 
-&nbsp;
+ 
 
 ### HOW TO IN PICTURES:
 
-&nbsp;
+ 
 
 Pic 1: Gather your ingredients, plus salt!
 
