@@ -3,7 +3,7 @@ layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
 feature-image_path: /images/satay.jpeg
-title: 'GETTING SAUCY WITH CHEF NICOLE: SWEET & SPICY SATAY SAUCE'
+title: 'Getting Saucy With Chef Nicole: Sweet & Spicy Satay Sauce'
 Author: Nicole
 category: Recipes
 published: true
@@ -15,27 +15,27 @@ categories:
 
 Everybody loves satay sauce. Sweet and nutty with a little kick – (kinda like Chef Nicole herself!) – it’s also very easy to modify to accommodate most common allergies or dietary restrictions. In the gluten free, dairy free recipe below, you will find options listed to make your satay sauce keto and/or Paleo.
 
-&nbsp;
+ 
 
 ### GETTING SAUCY WITH CHEF NICOLE: SWEET & SPICY SATAY SAUCE
 
-&nbsp;
+ 
 
 ##### PREP TIME
 
 5 mins
 
-&nbsp;
+ 
 
 ##### TOTAL TIME
 
 5 mins
 
-&nbsp;
+ 
 
 Try this sauce for dipping seasoned satay skewers, but also tossed through noodles, zoodles, or even a salad! Fantastic with beef, chicken, pork, shrimp, and vegetables.
 
-&nbsp;
+ 
 
 Author: Nicole Poirier
 
@@ -45,11 +45,11 @@ Cuisine: Thai, Californian, Paleo, Keto
 
 Serves: 1 cup
 
-&nbsp;
+ 
 
 ### INGREDIENTS
 
-&nbsp;
+ 
 
 * ¼ c creamy plain nut or seed butter (peanut, [almond](https://www.amazon.com/gp/product/B06ZZMW3YL/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B06ZZMW3YL&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=588c2fe1e58eb95fafe3baff66bc102e), [cashew](https://www.amazon.com/gp/product/B001RPT6O8/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B001RPT6O8&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=a995b7e471b5048cc04a37989e6ff0f2), [sunbutter](https://www.amazon.com/gp/product/B06XNVG81Y/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B06XNVG81Y&amp;linkCode=as2&amp;tag=bychefnicole-20&amp;linkId=8bd46d58676963afcaf356b1fd306f80))
 * ¼ c coconut milk
@@ -60,10 +60,10 @@ Serves: 1 cup
 * 1 Tablespoon sambal/sriracha/chili-garlic paste
 * 1 teaspoon minced fresh ginger
 
-&nbsp;
+ 
 
 ### INSTRUCTIONS
 
-&nbsp;
+ 
 
 1. Combine all ingredients in a small bowl and whisk. Use immediately or transfer to a small lidded jar. Keeps in refrigerator for 1-2 weeks.
