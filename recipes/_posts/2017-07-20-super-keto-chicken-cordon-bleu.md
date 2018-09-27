@@ -3,7 +3,7 @@ layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
 feature-image_path: /uploads/Keto Chicken Cordon Bleu.jpg
-title: SUPER KETO CHICKEN CORDON BLEU
+title: Super Keto Chicken Cordon Bleu
 Author: Nicole
 category: Recipes
 published: true
