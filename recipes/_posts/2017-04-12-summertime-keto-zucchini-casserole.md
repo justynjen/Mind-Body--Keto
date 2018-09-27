@@ -3,7 +3,7 @@ layout: posts
 date: 2017-04-12 00:00:00
 feature-image_path: /images/zuchinni-casserole.jpg
 permalink: '/:categories/:year/:month/:day/:title/'
-title: SUMMERTIME KETO ZUCCHINI CASSEROLE
+title: Summertime Keto Zucchini Casserole
 Author: Nicole
 category: Recipes
 published: true
@@ -21,33 +21,33 @@ Creamy, cheesy, half-quiche and half-bread, this casserole was the stuff my drea
 
 I can’t wait until you try this for yourselves – please let me know how it comes out in the comments!
 
-&nbsp;
+ 
 
 ### SUMMERTIME KETO ZUCCHINI CASSEROLE
 
-### &nbsp;
+###  
 
 ##### PREP TIME
 
 10 mins
 
-### &nbsp;
+###  
 
 ##### COOK TIME
 
 20 mins
 
-### &nbsp;
+###  
 
 ##### TOTAL TIME
 
 30 mins
 
-&nbsp;
+ 
 
 Summer is marked by zucchini for me, and I just had a craving for the cheesy, bready, but almost quiche-like zucchini casserole of my childhood! Once you have this easy-to-make-delight, I’ll bet it will be in YOUR repertoire, too.
 
-&nbsp;
+ 
 
 Author: Nicole Poirier
 
@@ -57,11 +57,11 @@ Cuisine: Keto, American, Summer
 
 Serves: 16 pieces
 
-### &nbsp;
+###  
 
 ### INGREDIENTS
 
-&nbsp;
+ 
 
 * 3 c thinly sliced zucchini
 * 8 eggs
@@ -73,13 +73,13 @@ Serves: 16 pieces
 * Salt & Pepper
 * 8 x 8 baking dish or something of similar volume
 
-### &nbsp;
+###  
 
 ### INSTRUCTIONS
 
-&nbsp;
+ 
 
-1. Preheat oven to 375&ordm;F.
+1. Preheat oven to 375ºF.
 2. In a small mixing bowl, whisk together coconut flour, baking powder, pinch salt & pepper until well combined.
 3. In a larger mixing bowl, whisk together eggs, slightly-cooled butter, and grated Romano cheese.
 4. Transfer the dry ingredients into the wet ingredients and whisk well. The mixture will start to thicken.
