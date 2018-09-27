@@ -3,7 +3,7 @@ layout: posts
 date: 2017-07-20 00:00:00
 permalink: '/:title'
 feature-image_path: /images/tzatziki.jpeg
-title: 'GETTING SAUCY WITH CHEF NICOLE: TZATZIKI FOR EVERY BELLY'
+title: 'Getting Saucy With Chef Nicole: Tzatziki For Every Belly'
 Author: Nicole
 category: Recipes
 published: true
@@ -58,8 +58,7 @@ Serves: 1½ cups
 * 1 Tablespoon lemon juice
 * 1 Tablespoon chopped fresh dill
 * 1 Tablespoon chopped fresh mint
-* Salt & pepper to taste
-*
+* Salt & pepper to taste\*
 
 ### INSTRUCTIONS
 
